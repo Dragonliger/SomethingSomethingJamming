@@ -1,0 +1,1558 @@
+﻿Log file open, 11/11/18 12:59:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EpicJamProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-314335501) SRandInit(-314335501).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.322985
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.620s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am cdm-z77-04 (10.159.23.2:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  /Game/Assets/Levels/TestingLevel1 -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -nohmd -windowed 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.11-20.59.43:663][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.11-20.59.43:663][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.11-20.59.43:670][  0]LogInit: Computer: CDM-Z77-04
+[2018.11.11-20.59.43:670][  0]LogInit: User: user
+[2018.11.11-20.59.43:671][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.11-20.59.43:671][  0]LogInit: High frequency timer resolution =3.330098 MHz
+[2018.11.11-20.59.43:671][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.11-20.59.43:671][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.11-20.59.43:671][  0]LogMemory: Process Physical Memory: 273.64 MB used, 273.64 MB peak
+[2018.11.11-20.59.43:671][  0]LogMemory: Process Virtual Memory: 264.82 MB used, 264.82 MB peak
+[2018.11.11-20.59.43:671][  0]LogMemory: Physical Memory: 5090.48 MB used,  3049.83 MB free, 8140.31 MB total
+[2018.11.11-20.59.43:671][  0]LogMemory: Virtual Memory: 4795.21 MB used,  3049.83 MB free, 134217728.00 MB total
+[2018.11.11-20.59.43:698][  0]LogInit: Using OS detected language (en-US).
+[2018.11.11-20.59.43:698][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.11-20.59.43:699][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.11.11-20.59.43:699][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2018.11.11-20.59.44:192][  0]LogStreaming: Display: Took  0.494s to EndInitTextLocalization.
+[2018.11.11-20.59.44:219][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.11-20.59.44:219][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.11-20.59.44:224][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.11-20.59.44:307][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.11.11-20.59.44:307][  0]LogD3D11RHI:       6052/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.11-20.59.44:309][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.11-20.59.44:309][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.11-20.59.44:309][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.11-20.59.44:318][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.11-20.59.44:318][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.11-20.59.44:318][  0]LogWindows: EnumDisplayDevices:
+[2018.11.11-20.59.44:319][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.11.11-20.59.44:319][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.11-20.59.44:319][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.11-20.59.44:319][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.11-20.59.44:320][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.11-20.59.44:320][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.11.11-20.59.44:320][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.11-20.59.44:320][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.11-20.59.44:320][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.11.11-20.59.44:398][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.11-20.59.44:398][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.11-20.59.44:398][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.11-20.59.44:433][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.11-20.59.44:435][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Intermediate/Shaders/WorkingDirectory/32/).
+[2018.11.11-20.59.44:435][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/08391E81478F89A60C1D7F9600C443F8/'.
+[2018.11.11-20.59.44:702][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.11-20.59.44:718][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.11-20.59.44:735][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.11-20.59.44:751][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.11-20.59.44:751][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.11-20.59.44:908][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.11-20.59.44:908][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.11-20.59.44:908][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.11-20.59.45:725][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.11-20.59.45:821][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/user/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.11-20.59.45:821][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.11-20.59.45:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.11-20.59.45:821][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.11-20.59.45:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.11-20.59.45:821][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.11-20.59.45:838][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.11-20.59.45:851][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.11-20.59.45:851][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.11-20.59.45:851][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.11-20.59.45:867][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.11-20.59.45:868][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.11-20.59.45:869][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.11-20.59.45:869][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.11-20.59.46:004][  0]LogAssetRegistry: FAssetRegistry took 0.0049 seconds to start up
+[2018.11.11-20.59.46:272][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.009681 seconds
+[2018.11.11-20.59.46:404][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.11-20.59.46:576][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.11-20.59.46:580][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.11-20.59.46:580][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.11-20.59.46:580][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.11-20.59.46:580][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.11-20.59.46:580][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.11-20.59.46:619][  0]LogNetVersion: EpicJamProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1335748515)
+[2018.11.11-20.59.47:446][  0]LogMoviePlayer: Initializing movie player
+[2018.11.11-20.59.47:800][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.11-20.59.47:839][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.11-20.59.48:158][  0]SourceControl: Source control is disabled
+[2018.11.11-20.59.48:158][  0]SourceControl: Source control is disabled
+[2018.11.11-20.59.48:182][  0]SourceControl: Source control is disabled
+[2018.11.11-20.59.48:641][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.11-20.59.48:886][  0]LogOcInput: OculusInput pre-init called
+[2018.11.11-20.59.48:942][  0]LogUObjectArray: 40124 objects as part of root set at end of initial load.
+[2018.11.11-20.59.48:942][  0]LogUObjectAllocator: 8364200 out of 0 bytes used by permanent object pool.
+[2018.11.11-20.59.48:942][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.11-20.59.48:999][  0]LogEngine: Initializing Engine...
+[2018.11.11-20.59.49:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.11-20.59.49:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.11-20.59.49:246][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.11-20.59.49:268][  0]LogInit: FAudioDevice initialized.
+[2018.11.11-20.59.49:286][  0]LogInit: Texture streaming: Enabled
+[2018.11.11-20.59.49:438][  0]LogInit: Display: Game Engine Initialized.
+[2018.11.11-20.59.49:438][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.11-20.59.49:438][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.11-20.59.49:438][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.11-20.59.49:575][  0]LogInit: Display: Starting Game.
+[2018.11.11-20.59.49:575][  0]LogNet: Browse: /Game/Assets/Levels/TestingLevel1?Name=Player
+[2018.11.11-20.59.49:575][  0]LogLoad: LoadMap: /Game/Assets/Levels/TestingLevel1?Name=Player
+[2018.11.11-20.59.49:589][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab9b21b58, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.59.49:590][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab9b5b190, Size=48, Default__SimpleUI_C Function /Game/Assets/UserInterface/SimpleUI.SimpleUI_C:ExecuteUbergraph_SimpleUI
+[2018.11.11-20.59.49:592][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab2554100, Size=188, Default__MainCharacter_C Function /Game/Assets/Blueprints/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter
+[2018.11.11-20.59.49:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab92cdda0, Size=144, Default__Portal_C Function /Game/Assets/Blueprints/Portal.Portal_C:ExecuteUbergraph_Portal
+[2018.11.11-20.59.49:706][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab2554100, Size=188
+[2018.11.11-20.59.49:706][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab2152800, Size=188, Default__MainCharacter_C Function /Engine/Transient.REINST_MainCharacter_C_4:ExecuteUbergraph_MainCharacter
+[2018.11.11-20.59.49:707][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab92cdda0, Size=144
+[2018.11.11-20.59.49:707][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab963d440, Size=144, Default__Portal_C Function /Engine/Transient.REINST_Portal_C_5:ExecuteUbergraph_Portal
+[2018.11.11-20.59.49:707][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab9b5b190, Size=48
+[2018.11.11-20.59.49:707][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab9b5b190, Size=48, Default__SimpleUI_C Function /Engine/Transient.REINST_SimpleUI_C_0:ExecuteUbergraph_SimpleUI
+[2018.11.11-20.59.49:734][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab9412800, Size=188, Default__MainCharacter_C Function /Game/Assets/Blueprints/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter
+[2018.11.11-20.59.49:736][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab942a020, Size=152, Default__Portal_C Function /Game/Assets/Blueprints/Portal.Portal_C:ExecuteUbergraph_Portal
+[2018.11.11-20.59.49:737][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab18473a0, Size=48, Default__SimpleUI_C Function /Game/Assets/UserInterface/SimpleUI.SimpleUI_C:ExecuteUbergraph_SimpleUI
+[2018.11.11-20.59.49:742][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab9b21b58, Size=24
+[2018.11.11-20.59.49:742][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab95bb4a8, Size=24, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_14:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.59.49:743][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab95bace0, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.59.49:813][  0]LogAIModule: Creating AISystem for world TestingLevel1
+[2018.11.11-20.59.49:813][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.11-20.59.49:814][  0]LogLoad: Game class is 'GameModeBase'
+[2018.11.11-20.59.49:820][  0]LogWorld: Bringing World /Game/Assets/Levels/TestingLevel1.TestingLevel1 up for play (max tick rate 0) at 2018.11.11-12.59.49
+[2018.11.11-20.59.49:821][  0]LogWorld: Bringing up level for play took: 0.006280
+[2018.11.11-20.59.49:823][  0]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.Portal_1237.Plane: Material index -1 is invalid.
+[2018.11.11-20.59.49:825][  0]LogLoad: Took 0.249173 seconds to LoadMap(/Game/Assets/Levels/TestingLevel1)
+[2018.11.11-20.59.49:891][  0]LogLoad: (Engine Initialization) Total time: 9.75 seconds
+[2018.11.11-20.59.49:891][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.11-20.59.49:939][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.11.11-20.59.49:966][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.11.11-20.59.50:006][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.11-20.59.50:077][  0]LogOcInput: OculusInput is initialized
+[2018.11.11-20.59.50:080][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.11-20.59.50:132][  1]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:133][  1]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:133][  1]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:148][  2]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:149][  2]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:149][  2]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:165][  3]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:165][  3]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:165][  3]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:181][  4]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:181][  4]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:181][  4]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:197][  5]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:197][  5]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:197][  5]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:213][  6]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:213][  6]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:213][  6]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:229][  7]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:229][  7]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:229][  7]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:245][  8]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:245][  8]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:245][  8]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:261][  9]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:261][  9]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:261][  9]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:278][ 10]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:278][ 10]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:278][ 10]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:293][ 11]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:293][ 11]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:293][ 11]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:309][ 12]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:309][ 12]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:309][ 12]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:325][ 13]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:325][ 13]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:325][ 13]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:341][ 14]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:341][ 14]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:341][ 14]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:357][ 15]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:357][ 15]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:357][ 15]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:373][ 16]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:373][ 16]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:373][ 16]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:389][ 17]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:390][ 17]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:390][ 17]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:406][ 18]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:406][ 18]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:406][ 18]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:422][ 19]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:422][ 19]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:422][ 19]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:438][ 20]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:438][ 20]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:438][ 20]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:454][ 21]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:454][ 21]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:454][ 21]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:470][ 22]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:470][ 22]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:470][ 22]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:486][ 23]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:486][ 23]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:486][ 23]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:502][ 24]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:503][ 24]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:503][ 24]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:519][ 25]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:519][ 25]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:519][ 25]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:535][ 26]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:535][ 26]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:535][ 26]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:551][ 27]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:551][ 27]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:551][ 27]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:567][ 28]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:567][ 28]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:567][ 28]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:583][ 29]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:583][ 29]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:583][ 29]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:599][ 30]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:599][ 30]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:599][ 30]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:615][ 31]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:615][ 31]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:616][ 31]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:632][ 32]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:632][ 32]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:632][ 32]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:648][ 33]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:648][ 33]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:648][ 33]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:664][ 34]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:664][ 34]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:664][ 34]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:680][ 35]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:680][ 35]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:680][ 35]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:696][ 36]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:696][ 36]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:696][ 36]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:712][ 37]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:712][ 37]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:712][ 37]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:728][ 38]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:729][ 38]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:729][ 38]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:745][ 39]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:745][ 39]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:745][ 39]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:761][ 40]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:761][ 40]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:761][ 40]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:777][ 41]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:777][ 41]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:777][ 41]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:793][ 42]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:793][ 42]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:793][ 42]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:809][ 43]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:809][ 43]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:809][ 43]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:825][ 44]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:825][ 44]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:825][ 44]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:841][ 45]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:841][ 45]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:842][ 45]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:858][ 46]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:858][ 46]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:858][ 46]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:874][ 47]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:874][ 47]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:874][ 47]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:890][ 48]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:890][ 48]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:890][ 48]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:906][ 49]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:906][ 49]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:906][ 49]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:922][ 50]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:922][ 50]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:922][ 50]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:938][ 51]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:938][ 51]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:938][ 51]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:954][ 52]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:954][ 52]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:955][ 52]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:971][ 53]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:971][ 53]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:971][ 53]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.50:987][ 54]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.50:987][ 54]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.50:987][ 54]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:003][ 55]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:003][ 55]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:003][ 55]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:019][ 56]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:019][ 56]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:019][ 56]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:035][ 57]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:035][ 57]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:035][ 57]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:051][ 58]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:051][ 58]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:051][ 58]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:067][ 59]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:067][ 59]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:067][ 59]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:084][ 60]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:084][ 60]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:084][ 60]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:100][ 61]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:100][ 61]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:100][ 61]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:116][ 62]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:116][ 62]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:116][ 62]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:132][ 63]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:132][ 63]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:132][ 63]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:148][ 64]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:148][ 64]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:148][ 64]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:164][ 65]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:164][ 65]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:164][ 65]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:180][ 66]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:180][ 66]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:180][ 66]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:197][ 67]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:197][ 67]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:197][ 67]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:213][ 68]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:213][ 68]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:213][ 68]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:229][ 69]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:229][ 69]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:229][ 69]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:245][ 70]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:245][ 70]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:245][ 70]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:261][ 71]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:261][ 71]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:261][ 71]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:277][ 72]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:277][ 72]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:277][ 72]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:294][ 73]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:294][ 73]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:294][ 73]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:310][ 74]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:310][ 74]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:310][ 74]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:326][ 75]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:326][ 75]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:326][ 75]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:342][ 76]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:342][ 76]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:342][ 76]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:358][ 77]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:358][ 77]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:358][ 77]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:374][ 78]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:374][ 78]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:374][ 78]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:391][ 79]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:391][ 79]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:391][ 79]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:407][ 80]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:407][ 80]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:407][ 80]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:423][ 81]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:423][ 81]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:423][ 81]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:439][ 82]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:439][ 82]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:439][ 82]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:455][ 83]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:455][ 83]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:455][ 83]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:471][ 84]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:471][ 84]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:471][ 84]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:488][ 85]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:488][ 85]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:488][ 85]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:504][ 86]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:504][ 86]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:504][ 86]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:520][ 87]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:520][ 87]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:520][ 87]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:536][ 88]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:536][ 88]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:536][ 88]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:552][ 89]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:552][ 89]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:552][ 89]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:568][ 90]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:568][ 90]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:568][ 90]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:584][ 91]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:584][ 91]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:584][ 91]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:601][ 92]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:601][ 92]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:601][ 92]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:617][ 93]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:617][ 93]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:617][ 93]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:633][ 94]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:633][ 94]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:633][ 94]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:649][ 95]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:649][ 95]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:649][ 95]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:665][ 96]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:665][ 96]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:665][ 96]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:681][ 97]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:681][ 97]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:681][ 97]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:697][ 98]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:697][ 98]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:697][ 98]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:712][ 99]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:712][ 99]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:712][ 99]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:729][100]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:729][100]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:729][100]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:745][101]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:745][101]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:745][101]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:761][102]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:761][102]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:761][102]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:777][103]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:777][103]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:777][103]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:793][104]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:793][104]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:793][104]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:809][105]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:809][105]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:809][105]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:825][106]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:825][106]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:825][106]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:842][107]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:842][107]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:842][107]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:858][108]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:858][108]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:858][108]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:874][109]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:874][109]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:874][109]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:890][110]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:890][110]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:890][110]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:906][111]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:906][111]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:906][111]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:922][112]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:922][112]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:922][112]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:938][113]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:938][113]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:938][113]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:955][114]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:955][114]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:955][114]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:971][115]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:971][115]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:971][115]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.51:987][116]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.51:987][116]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.51:987][116]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:003][117]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:003][117]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:003][117]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:019][118]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:019][118]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:019][118]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:035][119]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:036][119]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:036][119]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:052][120]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:052][120]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:052][120]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:068][121]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:068][121]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:068][121]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:084][122]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:084][122]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:084][122]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:100][123]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:100][123]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:100][123]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:116][124]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:116][124]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:116][124]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:132][125]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:132][125]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:132][125]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:149][126]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:149][126]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:149][126]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:165][127]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:165][127]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:165][127]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:181][128]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:181][128]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:181][128]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:197][129]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:197][129]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:197][129]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:213][130]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:213][130]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:213][130]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:229][131]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:229][131]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:229][131]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:245][132]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:245][132]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:245][132]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:261][133]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:262][133]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:262][133]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:277][134]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:277][134]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:277][134]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:294][135]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:294][135]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:294][135]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:310][136]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:310][136]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:310][136]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:326][137]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:326][137]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:326][137]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:342][138]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:342][138]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:342][138]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:358][139]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:358][139]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:358][139]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:374][140]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:375][140]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:375][140]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:391][141]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:391][141]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:391][141]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:407][142]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:407][142]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:407][142]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:423][143]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:423][143]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:423][143]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:439][144]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:439][144]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:439][144]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:455][145]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:455][145]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:455][145]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:471][146]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:471][146]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:471][146]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:488][147]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:488][147]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:488][147]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:504][148]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:504][148]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:504][148]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:520][149]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:520][149]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:520][149]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:536][150]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:536][150]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:536][150]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:552][151]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:552][151]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:552][151]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:568][152]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:568][152]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:568][152]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:585][153]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:585][153]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:585][153]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:601][154]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:601][154]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:601][154]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:617][155]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:617][155]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:617][155]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:633][156]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:633][156]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:633][156]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:649][157]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:649][157]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:649][157]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:665][158]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:665][158]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:665][158]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:681][159]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:681][159]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:681][159]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:698][160]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:698][160]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:698][160]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:714][161]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:714][161]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:714][161]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:730][162]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:730][162]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:730][162]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:746][163]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:746][163]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:746][163]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:762][164]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:762][164]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:762][164]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:778][165]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:778][165]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:778][165]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:794][166]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:794][166]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:794][166]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:810][167]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:810][167]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:811][167]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:827][168]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:827][168]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:827][168]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:843][169]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:843][169]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:843][169]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:859][170]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:859][170]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:859][170]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:875][171]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:875][171]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:875][171]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:891][172]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:891][172]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:891][172]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:907][173]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:907][173]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:907][173]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:923][174]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:923][174]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:923][174]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:940][175]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:940][175]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:940][175]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:955][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-20.59.52:956][176]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:956][176]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:956][176]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:972][177]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:972][177]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:972][177]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.52:988][178]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.52:988][178]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.52:988][178]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:004][179]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:004][179]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:004][179]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:020][180]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:020][180]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:020][180]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:036][181]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:036][181]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:036][181]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:053][182]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:053][182]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:053][182]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:069][183]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:069][183]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:069][183]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:085][184]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:085][184]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:085][184]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:101][185]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:101][185]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:101][185]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:117][186]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:117][186]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:117][186]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:133][187]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:134][187]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:134][187]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:149][188]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:149][188]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:149][188]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:164][189]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:164][189]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:164][189]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:180][190]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:180][190]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:181][190]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:197][191]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:197][191]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:197][191]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:213][192]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:213][192]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:213][192]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:229][193]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:229][193]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:229][193]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:245][194]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:245][194]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:245][194]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:261][195]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:261][195]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:261][195]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:277][196]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:277][196]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:277][196]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:294][197]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:294][197]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:294][197]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:310][198]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:310][198]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:310][198]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:326][199]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:326][199]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:326][199]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:342][200]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:342][200]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:342][200]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:358][201]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:358][201]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:358][201]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:374][202]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:374][202]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:374][202]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:390][203]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:390][203]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:390][203]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:406][204]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:406][204]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:406][204]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:423][205]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:423][205]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:423][205]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:439][206]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:439][206]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:439][206]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:455][207]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:455][207]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:455][207]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:471][208]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:471][208]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:471][208]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:487][209]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:487][209]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:487][209]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:503][210]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:503][210]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:503][210]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:519][211]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:519][211]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:519][211]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:536][212]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:536][212]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:536][212]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:552][213]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:552][213]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:552][213]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:568][214]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:568][214]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:568][214]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:584][215]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:584][215]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:584][215]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:600][216]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:600][216]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:600][216]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:616][217]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:616][217]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:616][217]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:632][218]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:632][218]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:632][218]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:649][219]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:649][219]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:649][219]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:665][220]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:665][220]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:665][220]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:681][221]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:681][221]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:681][221]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:697][222]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:697][222]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:697][222]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:713][223]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:713][223]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:713][223]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:729][224]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:729][224]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:729][224]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:745][225]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:745][225]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:746][225]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:762][226]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:762][226]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:762][226]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:778][227]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:778][227]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:778][227]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:794][228]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:794][228]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:794][228]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:810][229]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:810][229]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:810][229]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:826][230]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:826][230]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:826][230]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:842][231]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:842][231]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:842][231]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:858][232]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:858][232]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:858][232]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:875][233]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:875][233]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:875][233]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:891][234]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:891][234]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:891][234]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:907][235]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:907][235]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:907][235]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:923][236]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:923][236]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:923][236]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:939][237]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:939][237]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:939][237]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:955][238]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:955][238]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:955][238]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:971][239]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:971][239]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:971][239]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.53:988][240]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.53:988][240]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.53:988][240]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:004][241]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:004][241]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:004][241]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:020][242]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:020][242]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:020][242]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:036][243]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:036][243]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:036][243]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:052][244]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:052][244]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:052][244]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:068][245]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:068][245]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:068][245]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:084][246]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:084][246]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:084][246]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:100][247]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:101][247]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:101][247]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:117][248]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:117][248]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:117][248]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:133][249]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:133][249]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:133][249]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:149][250]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:149][250]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:149][250]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:165][251]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:165][251]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:165][251]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:181][252]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:181][252]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:181][252]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:197][253]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:197][253]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:198][253]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:213][254]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:214][254]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:214][254]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:230][255]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:230][255]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:230][255]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:246][256]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:246][256]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:246][256]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:262][257]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:262][257]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:262][257]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:278][258]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:278][258]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:278][258]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:294][259]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:294][259]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:294][259]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:310][260]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:310][260]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:310][260]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:326][261]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:327][261]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:327][261]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:343][262]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:343][262]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:343][262]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:359][263]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:359][263]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:359][263]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:375][264]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:375][264]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:375][264]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:391][265]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:391][265]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:391][265]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:407][266]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:407][266]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:407][266]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:423][267]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:423][267]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:423][267]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:439][268]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:440][268]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:440][268]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:456][269]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:456][269]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:456][269]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:472][270]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:472][270]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:472][270]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:488][271]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:488][271]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:488][271]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:504][272]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:504][272]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:504][272]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:520][273]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:520][273]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:520][273]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:536][274]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:536][274]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:536][274]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:552][275]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:553][275]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:553][275]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:568][276]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:568][276]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:568][276]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:584][277]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:584][277]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:584][277]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:600][278]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:600][278]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:600][278]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:616][279]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:616][279]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:616][279]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:632][280]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:632][280]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:632][280]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:648][281]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:648][281]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:648][281]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:664][282]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:665][282]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:665][282]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:681][283]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:681][283]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:681][283]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:697][284]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:697][284]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:697][284]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:713][285]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:713][285]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:713][285]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:729][286]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:729][286]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:729][286]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:745][287]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:745][287]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:745][287]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:761][288]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:761][288]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:761][288]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:777][289]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:778][289]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:778][289]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:794][290]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:794][290]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:794][290]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:810][291]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:810][291]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:810][291]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:826][292]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:826][292]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:826][292]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:842][293]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:842][293]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:842][293]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:858][294]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:858][294]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:858][294]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:874][295]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:874][295]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:874][295]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:890][296]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:890][296]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:891][296]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:907][297]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:907][297]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:907][297]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:923][298]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:923][298]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:923][298]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:939][299]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:939][299]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:939][299]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:955][300]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:955][300]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:955][300]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:972][301]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:972][301]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:972][301]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.54:988][302]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.54:988][302]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.54:988][302]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:004][303]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:004][303]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:004][303]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:020][304]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:020][304]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:020][304]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:036][305]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:036][305]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:036][305]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:053][306]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:053][306]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:053][306]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:069][307]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:069][307]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:069][307]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:084][308]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:084][308]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:084][308]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:101][309]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:101][309]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:101][309]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:117][310]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:117][310]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:117][310]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:133][311]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:133][311]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:133][311]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:149][312]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:149][312]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:149][312]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:165][313]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:165][313]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:165][313]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:181][314]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:181][314]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:181][314]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:197][315]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:197][315]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:197][315]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:214][316]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:214][316]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:214][316]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:230][317]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:230][317]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:230][317]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:246][318]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:246][318]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:246][318]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:262][319]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:262][319]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:262][319]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:278][320]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:278][320]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:278][320]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:294][321]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:294][321]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:294][321]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:310][322]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:310][322]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:310][322]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:326][323]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:326][323]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:326][323]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:342][324]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:342][324]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:343][324]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:359][325]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:359][325]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:359][325]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:375][326]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:375][326]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:375][326]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:391][327]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:391][327]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:391][327]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:407][328]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:407][328]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:407][328]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:423][329]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:423][329]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:423][329]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:439][330]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:439][330]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:439][330]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:456][331]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:456][331]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:456][331]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:472][332]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:472][332]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:472][332]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:488][333]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:488][333]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:488][333]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:504][334]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:504][334]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:504][334]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:520][335]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:520][335]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:520][335]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:536][336]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:536][336]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:536][336]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:552][337]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:552][337]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:552][337]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:568][338]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:569][338]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:569][338]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:585][339]LogBlueprintUserMessages: [Portal_1237] Height: 914.284973
+[2018.11.11-20.59.55:585][339]LogBlueprintUserMessages: [Portal_1237] Res: 720.0
+[2018.11.11-20.59.55:585][339]LogBlueprintUserMessages: [Portal_1237] Result: 1.26984
+[2018.11.11-20.59.55:671][340]LogSlate: Window 'EpicJamProject (64-bit, PCD3D_SM5) ' being destroyed
+[2018.11.11-20.59.55:672][340]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.11-20.59.55:675][340]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.11-20.59.55:676][340]LogEngine: All Windows Closed
+[2018.11.11-20.59.55:676][340]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.11.11-20.59.56:005][341]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.11-20.59.56:005][341]LogExit: Preparing to exit.
+[2018.11.11-20.59.56:005][341]LogMoviePlayer: Shutting down movie player
+[2018.11.11-20.59.56:874][341]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab95bb4a8, Size=24
+[2018.11.11-20.59.56:874][341]LogExit: Game engine shut down
+[2018.11.11-20.59.56:876][341]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab9b5b190, Size=48
+[2018.11.11-20.59.56:877][341]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab2152800, Size=188
+[2018.11.11-20.59.56:877][341]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab963d440, Size=144
+[2018.11.11-20.59.56:877][341]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab9412800, Size=188
+[2018.11.11-20.59.56:877][341]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab942a020, Size=152
+[2018.11.11-20.59.56:877][341]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab18473a0, Size=48
+[2018.11.11-20.59.56:877][341]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025ab95bace0, Size=24
+[2018.11.11-20.59.56:925][341]LogExit: Object subsystem successfully closed.
+[2018.11.11-20.59.56:947][341]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.11-20.59.56:951][341]LogD3D11RHI: Shutdown
+[2018.11.11-20.59.56:951][341]LogD3D11RHI: CleanupD3DDevice
+[2018.11.11-20.59.56:952][341]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (332)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module SequenceRecorder (330)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module AutomationController (328)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module AIModule (324)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module GameplayDebugger (323)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module AITestSuite (321)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (318)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (316)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (314)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (312)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module CharacterAI (310)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module SessionServices (308)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (306)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (304)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module MovieScene (302)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module GeometryCache (300)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (299)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (296)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module PortalServices (294)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module PortalRpc (292)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module MessagingRpc (290)
+[2018.11.11-20.59.56:971][341]LogModuleManager: Shutting down and abandoning module ProfilerService (288)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module TaskGraph (286)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module SteamVRController (284)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (282)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module OculusInput (280)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (278)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (276)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module CableComponent (274)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module AudioCapture (272)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (270)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module AndroidPermission (268)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (264)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (262)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module MediaCompositing (260)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module LinearTimecode (258)
+[2018.11.11-20.59.56:981][341]LogModuleManager: Shutting down and abandoning module ImgMedia (256)
+[2018.11.11-20.59.56:983][341]LogModuleManager: Shutting down and abandoning module HTML5Networking (254)
+[2018.11.11-20.59.56:983][341]LogModuleManager: Shutting down and abandoning module DatasmithContent (252)
+[2018.11.11-20.59.56:983][341]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (250)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module CryptoKeys (248)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (246)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module HotReload (245)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (244)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (240)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module UObjectPlugin (238)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (236)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (234)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module SourceControl (233)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (230)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (228)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (226)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module PhysXVehicles (224)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (222)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (220)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (218)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module ActorSequence (216)
+[2018.11.11-20.59.56:984][341]LogModuleManager: Shutting down and abandoning module UdpMessaging (214)
+[2018.11.11-20.59.57:085][341]LogModuleManager: Shutting down and abandoning module TcpMessaging (212)
+[2018.11.11-20.59.57:804][341]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (210)
+[2018.11.11-20.59.57:804][341]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2018.11.11-20.59.57:804][341]LogModuleManager: Shutting down and abandoning module DataValidation (206)
+[2018.11.11-20.59.57:804][341]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (204)
+[2018.11.11-20.59.57:804][341]LogModuleManager: Shutting down and abandoning module TreeMap (203)
+[2018.11.11-20.59.57:804][341]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (200)
+[2018.11.11-20.59.57:804][341]LogModuleManager: Shutting down and abandoning module LiveLink (198)
+[2018.11.11-20.59.58:628][341]LogModuleManager: Shutting down and abandoning module Paper2D (196)
+[2018.11.11-20.59.58:628][341]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (194)
+[2018.11.11-20.59.58:628][341]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (192)
+[2018.11.11-20.59.58:628][341]LogModuleManager: Shutting down and abandoning module WmfMedia (190)
+[2018.11.11-20.59.58:629][341]LogModuleManager: Shutting down and abandoning module Media (189)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module Overlay (178)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module VREditor (174)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
+[2018.11.11-20.59.58:635][341]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
+[2018.11.11-20.59.58:636][341]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
+[2018.11.11-20.59.58:636][341]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
+[2018.11.11-20.59.58:636][341]LogModuleManager: Shutting down and abandoning module UMG (160)
+[2018.11.11-20.59.58:636][341]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
+[2018.11.11-20.59.58:636][341]LogModuleManager: Shutting down and abandoning module Sequencer (158)
+[2018.11.11-20.59.58:636][341]LogModuleManager: Shutting down and abandoning module MessageLog (155)
+[2018.11.11-20.59.58:636][341]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
+[2018.11.11-20.59.58:636][341]LogModuleManager: Shutting down and abandoning module Slate (148)
+[2018.11.11-20.59.58:636][341]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module MRMesh (144)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module Messaging (142)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module XAudio2 (136)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module Networking (134)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module Core (132)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module KismetCompiler (128)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module MeshUtilities (126)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (125)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (124)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (123)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (121)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (119)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module MaterialBaking (115)
+[2018.11.11-20.59.58:638][341]LogModuleManager: Shutting down and abandoning module DerivedDataCache (110)
+[2018.11.11-20.59.58:857][341]LogDerivedDataCache: Shutdown
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module XGEController (108)
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module TargetPlatform (106)
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (105)
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (103)
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (101)
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (99)
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (97)
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (95)
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (93)
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (91)
+[2018.11.11-20.59.58:857][341]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (89)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (87)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module ImageWrapper (86)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (83)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (81)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (79)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (77)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (75)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (73)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (71)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (69)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.11.11-20.59.58:858][341]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.11.11-20.59.58:862][341]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.11-20.59.58:864][341]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.11-20.59.58:869][341]LogExit: Exiting.
+[2018.11.11-20.59.58:873][341]Log file closed, 11/11/18 12:59:58

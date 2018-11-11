@@ -1,0 +1,832 @@
+﻿Log file open, 11/11/18 12:32:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EpicJamProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1396074963) SRandInit(-1396074963).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.321444
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.707s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am cdm-z77-04 (10.159.23.2:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.11-20.32.49:537][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.11-20.32.49:537][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.11-20.32.49:562][  0]LogInit: Computer: CDM-Z77-04
+[2018.11.11-20.32.49:562][  0]LogInit: User: user
+[2018.11.11-20.32.49:562][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.11-20.32.49:562][  0]LogInit: High frequency timer resolution =3.330098 MHz
+[2018.11.11-20.32.49:562][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.11-20.32.49:562][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.11-20.32.49:562][  0]LogMemory: Process Physical Memory: 280.11 MB used, 280.11 MB peak
+[2018.11.11-20.32.49:562][  0]LogMemory: Process Virtual Memory: 271.13 MB used, 271.13 MB peak
+[2018.11.11-20.32.49:562][  0]LogMemory: Physical Memory: 5622.63 MB used,  2517.68 MB free, 8140.31 MB total
+[2018.11.11-20.32.49:562][  0]LogMemory: Virtual Memory: 4846.75 MB used,  2517.68 MB free, 134217728.00 MB total
+[2018.11.11-20.32.49:589][  0]LogInit: Using OS detected language (en-US).
+[2018.11.11-20.32.49:589][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.11-20.32.49:593][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.11-20.32.50:078][  0]LogStreaming: Display: Took  0.489s to EndInitTextLocalization.
+[2018.11.11-20.32.50:078][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.11-20.32.50:141][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.11-20.32.50:141][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.11-20.32.50:427][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.11-20.32.50:520][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.11.11-20.32.50:520][  0]LogD3D11RHI:       6052/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.11-20.32.50:522][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.11-20.32.50:523][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.11-20.32.50:523][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.11-20.32.50:536][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.11-20.32.50:536][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.11-20.32.50:536][  0]LogWindows: EnumDisplayDevices:
+[2018.11.11-20.32.50:536][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.11.11-20.32.50:536][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.11-20.32.50:537][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.11-20.32.50:537][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.11-20.32.50:537][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.11-20.32.50:537][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.11.11-20.32.50:537][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.11-20.32.50:537][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.11-20.32.50:537][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.11.11-20.32.50:611][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.11-20.32.50:611][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.11-20.32.50:611][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.11-20.32.50:660][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.11-20.32.50:664][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Intermediate/Shaders/WorkingDirectory/4888/).
+[2018.11.11-20.32.50:665][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/5221CB4F40D853A900A79BBA4E76C8E3/'.
+[2018.11.11-20.32.51:027][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.11-20.32.51:046][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.11-20.32.51:064][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.11-20.32.51:081][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.11-20.32.51:100][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.11-20.32.51:122][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.11-20.32.51:145][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.11-20.32.51:167][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.11-20.32.51:176][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.11-20.32.51:196][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.11.11-20.32.51:212][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.11.11-20.32.51:231][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.11.11-20.32.51:246][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.11.11-20.32.51:263][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.11.11-20.32.51:281][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.11.11-20.32.51:315][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.11.11-20.32.51:315][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.11.11-20.32.51:330][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.11-20.32.51:332][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.11-20.32.51:378][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.11-20.32.51:392][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.11-20.32.51:407][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.11-20.32.51:422][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.11-20.32.51:438][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.11-20.32.51:455][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.11-20.32.51:455][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.11-20.32.51:643][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.11-20.32.51:643][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.11-20.32.51:643][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.11-20.32.52:596][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.11-20.32.52:706][  0]LogDerivedDataCache: Loaded boot cache 0.11s 74MB C:/Users/user/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.11-20.32.52:706][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.11-20.32.52:706][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.11-20.32.52:706][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.11-20.32.52:706][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.11-20.32.52:707][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.11-20.32.52:727][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.11-20.32.52:740][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.11-20.32.52:740][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.11-20.32.52:740][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.11-20.32.52:755][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.11-20.32.52:755][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.11-20.32.52:756][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.11-20.32.52:756][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.11-20.32.52:936][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.11.11-20.32.53:428][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.11-20.32.53:638][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.11-20.32.53:644][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.11-20.32.53:644][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.11-20.32.53:644][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.11-20.32.53:644][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.11-20.32.53:644][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.11-20.32.53:691][  0]LogNetVersion: EpicJamProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1335748515)
+[2018.11.11-20.32.54:439][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.145933 seconds
+[2018.11.11-20.32.54:450][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.11.11-20.32.54:450][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.11.11-20.32.54:450][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.11-20.32.56:807][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.11-20.32.56:847][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.11-20.32.57:366][  0]SourceControl: Source control is disabled
+[2018.11.11-20.32.57:366][  0]SourceControl: Source control is disabled
+[2018.11.11-20.32.57:395][  0]SourceControl: Source control is disabled
+[2018.11.11-20.32.57:424][  0]SourceControl: Source control is disabled
+[2018.11.11-20.32.58:128][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.11-20.32.58:419][  0]LogOcInput: OculusInput pre-init called
+[2018.11.11-20.32.58:574][  0]LogEngine: Initializing Engine...
+[2018.11.11-20.32.58:574][  0]LogHMD: Oculus plugin initialized. Version: 4.19.2-4033788+++UE4+Release-4.19, OVRPlugin: 1.21.0
+[2018.11.11-20.32.58:576][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.11-20.32.58:576][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.11-20.32.58:875][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.11-20.32.58:937][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.11-20.32.58:957][  0]LogInit: FAudioDevice initialized.
+[2018.11.11-20.32.59:055][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/user/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.11-20.32.59:077][  0]LogInit: Texture streaming: Enabled
+[2018.11.11-20.32.59:103][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.11-20.32.59:126][  0]LogInit: Transaction tracking system initialized
+[2018.11.11-20.32.59:169][  0]BlueprintLog: New page: Editor Load
+[2018.11.11-20.32.59:295][  0]LocalizationService: Localization service is disabled
+[2018.11.11-20.32.59:431][  0]LogConsoleResponse: Display: 
+[2018.11.11-20.32.59:664][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.11-20.32.59:664][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.11-20.32.59:664][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.11-20.32.59:664][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.11-20.32.59:664][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.11-20.33.00:300][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/' took 0.03s
+[2018.11.11-20.33.00:300][  0]SourceControl: Source control is disabled
+[2018.11.11-20.33.00:301][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.11-20.33.00:301][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.11.11-20.33.00:301][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.11-20.33.00:382][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.635ms to complete.
+[2018.11.11-20.33.00:382][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.082
+[2018.11.11-20.33.00:602][  0]LogCollectionManager: Loaded 0 collections in 0.002865 seconds
+[2018.11.11-20.33.00:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Collections/' took 0.01s
+[2018.11.11-20.33.00:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Developers/user/Collections/' took 0.01s
+[2018.11.11-20.33.00:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Collections/' took 0.01s
+[2018.11.11-20.33.00:648][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.11-20.33.00:660][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2452 classes and 558 folders.
+[2018.11.11-20.33.00:674][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.11-20.33.01:174][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.11-20.33.01:182][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.11-20.33.01:213][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2018.11.11-20.33.01:226][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.11-20.33.01:229][  0]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.11-20.33.01:250][  0]LogSlate: Took 0.010966 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.11-20.33.01:439][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2018.11.11-20.33.01:688][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.11-20.33.01:688][  0]LogLoad: (Engine Initialization) Total time: 16.13 seconds
+[2018.11.11-20.33.01:688][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.11-20.33.01:698][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.11-20.33.01:700][  0]LogOcInput: OculusInput is initialized
+[2018.11.11-20.33.01:720][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.11-20.33.01:772][  0]LogSlate: Took 0.007149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.11-20.33.01:838][  2]LogAssetRegistry: Asset discovery search completed in 8.9251 seconds
+[2018.11.11-20.33.01:840][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.11-20.33.01:840][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2018.11.11-20.33.02:737][ 93]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.11-20.33.04:400][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-20.33.04:514][264]LogSlate: Window 'Plugins' being destroyed
+[2018.11.11-20.33.04:521][264]LogSlate: Window 'Plugins' being destroyed
+[2018.11.11-20.33.04:522][264]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.11.11-20.33.06:496][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-20.33.19:466][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239e1135840, Size=188, Default__MainCharacter_C Function /Game/Assets/Blueprints/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter
+[2018.11.11-20.33.19:470][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239e1135840, Size=188
+[2018.11.11-20.33.19:470][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239e1135840, Size=188, Default__MainCharacter_C Function /Engine/Transient.REINST_MainCharacter_C_9:ExecuteUbergraph_MainCharacter
+[2018.11.11-20.33.19:474][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239e11341c0, Size=188, Default__MainCharacter_C Function /Game/Assets/Blueprints/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter
+[2018.11.11-20.33.19:486][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239e11b5ad0, Size=112, Default__Portal_C Function /Game/Assets/Blueprints/Portal.Portal_C:ExecuteUbergraph_Portal
+[2018.11.11-20.33.19:496][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239e11b5ad0, Size=112
+[2018.11.11-20.33.19:496][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239e11b5ad0, Size=112, Default__Portal_C Function /Engine/Transient.REINST_Portal_C_11:ExecuteUbergraph_Portal
+[2018.11.11-20.33.19:505][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239aeb5e550, Size=112, Default__Portal_C Function /Game/Assets/Blueprints/Portal.Portal_C:ExecuteUbergraph_Portal
+[2018.11.11-20.33.19:525][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239b83d6440, Size=48, Default__SimpleUI_C Function /Game/Assets/UserInterface/SimpleUI.SimpleUI_C:ExecuteUbergraph_SimpleUI
+[2018.11.11-20.33.19:527][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239b83d6440, Size=48
+[2018.11.11-20.33.19:527][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239b83d6440, Size=48, Default__SimpleUI_C Function /Engine/Transient.REINST_SimpleUI_C_0:ExecuteUbergraph_SimpleUI
+[2018.11.11-20.33.19:529][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239b83d6bc0, Size=48, Default__SimpleUI_C Function /Game/Assets/UserInterface/SimpleUI.SimpleUI_C:ExecuteUbergraph_SimpleUI
+[2018.11.11-20.33.19:532][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239b65ecca0, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.33.19:536][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239b65ecca0, Size=24
+[2018.11.11-20.33.19:536][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239b65ecca0, Size=24, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_14:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.33.19:537][956]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239b65ec328, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.33.19:699][956]LogAIModule: Creating AISystem for world TestingLevel1
+[2018.11.11-20.33.19:728][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239e1135840, Size=188
+[2018.11.11-20.33.19:728][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239e11b5ad0, Size=112
+[2018.11.11-20.33.19:728][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239b83d6440, Size=48
+[2018.11.11-20.33.19:728][956]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239b65ecca0, Size=24
+[2018.11.11-20.33.19:731][956]Cmd: MAP LOAD FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.11-20.33.19:731][956]LightingResults: New page: Lighting Build
+[2018.11.11-20.33.19:736][956]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2018.11.11-20.33.19:737][956]LoadErrors: New page: Loading map: TestingLevel1.umap
+[2018.11.11-20.33.19:737][956]MapCheck: New page: Map Check
+[2018.11.11-20.33.19:737][956]LightingResults: New page: Lighting Build
+[2018.11.11-20.33.19:758][956]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.11-20.33.19:817][956]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.11-20.33.19:909][956]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.022ms to complete.
+[2018.11.11-20.33.19:910][956]LogFileHelpers: Loading map 'TestingLevel1' took 0.180
+[2018.11.11-20.33.24:212][415]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.11.11-20.33.25:022][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.11-20.33.33:310][ 86]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.11.11-20.33.33:310][ 86]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.11.11-20.33.37:560][424]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.11-20.33.38:033][424]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239f9a8a178, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.11-20.33.38:034][424]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239f9a8a170, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.11.11-20.33.38:633][424]LogSlate: Took 0.004787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.11-20.33.38:720][425]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.11-20.34.34:312][604]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239fef22870, Size=4, Default__SKEL_TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.SKEL_TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.34.38:939][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.11-20.34.38:939][884]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.11-20.34.38:942][884]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239fef22870, Size=4
+[2018.11.11-20.34.38:942][884]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239d2346a18, Size=4, Default__SKEL_TestingLevel1_C Function /Engine/Transient.REINST_SKEL_TestingLevel1_C_30:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.34.38:942][884]LogPlayLevel: [PlayLevel] Compiling TestingLevel1 before play...
+[2018.11.11-20.34.38:945][884]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239b65ec328, Size=24
+[2018.11.11-20.34.38:945][884]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239fc074220, Size=24, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_32:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.34.38:947][884]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239fc074ac0, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.34.39:065][884]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239fc074220, Size=24
+[2018.11.11-20.34.39:066][884]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239d2346a18, Size=4
+[2018.11.11-20.34.39:067][884]LogPlayLevel: PlayLevel: Blueprint regeneration took 127 ms (1 blueprints)
+[2018.11.11-20.34.39:067][884]PIE: New page: SIE session: TestingLevel1 (Nov 11, 2018, 4:34:39 AM)
+[2018.11.11-20.34.39:067][884]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TestingLevel1
+[2018.11.11-20.34.39:072][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004510s)
+[2018.11.11-20.34.39:073][884]LogAIModule: Creating AISystem for world TestingLevel1
+[2018.11.11-20.34.39:073][884]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2018.11.11-20.34.39:073][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TestingLevel1.TestingLevel1 to /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1 (0.005530s)
+[2018.11.11-20.34.39:156][884]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.11-20.34.39:172][884]LogInit: FAudioDevice initialized.
+[2018.11.11-20.34.39:221][884]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.11-20.34.39:221][884]LogLoad: Game class is 'GameModeBase'
+[2018.11.11-20.34.39:225][884]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1 up for play (max tick rate 0) at 2018.11.11-12.34.39
+[2018.11.11-20.34.39:225][884]LogWorld: Bringing up level for play took: 0.001755
+[2018.11.11-20.34.39:233][884]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.11.11-20.34.39:233][884]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1:PersistentLevel.Portal_1237.Plane: Material index -1 is invalid.
+[2018.11.11-20.34.39:234][884]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TestingLevel1 -0.533
+[2018.11.11-20.34.39:364][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.11-20.34.39:365][884]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.306122
+[2018.11.11-20.34.39:422][885]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:443][886]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:460][887]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:479][888]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:493][889]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:509][890]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:524][891]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:539][892]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:555][893]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:569][894]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:584][895]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:598][896]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:614][897]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:629][898]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:641][899]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:662][900]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:677][901]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:694][902]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:710][903]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:726][904]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:740][905]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:760][906]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:775][907]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:788][908]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:804][909]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:818][910]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:831][911]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:846][912]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:862][913]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:880][914]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:894][915]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:916][916]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:932][917]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:952][918]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:975][919]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.39:994][920]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:009][921]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:028][922]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:041][923]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:056][924]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:074][925]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:089][926]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:105][927]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:117][928]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:140][929]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:154][930]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:168][931]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:192][932]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:210][933]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:227][934]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:243][935]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:257][936]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:275][937]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:292][938]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:312][939]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:328][940]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:343][941]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:360][942]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:375][943]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:390][944]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:403][945]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:417][946]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:432][947]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:448][948]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:740][958]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000239fc074ac0, Size=24
+[2018.11.11-20.34.40:740][958]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a03fabf70, Size=24, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_36:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.34.40:741][958]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a03faae48, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.34.40:906][958]LogSavePackage: Save=173.59ms
+[2018.11.11-20.34.40:906][958]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel155A68F2A461235C56F6C429986E1B114.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap'
+[2018.11.11-20.34.40:915][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap
+[2018.11.11-20.34.40:965][958]LogFileHelpers: Saving map 'TestingLevel1' took 0.381
+[2018.11.11-20.34.40:967][958]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.40:997][959]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:012][960]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:029][961]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:041][962]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:056][963]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:071][964]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:086][965]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:101][966]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:116][967]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:132][968]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:146][969]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:163][970]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:178][971]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:193][972]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:210][973]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:224][974]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:240][975]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:254][976]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:269][977]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:285][978]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:300][979]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:315][980]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:328][981]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:343][982]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:358][983]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:373][984]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:385][985]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:400][986]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:415][987]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:428][988]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:442][989]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:457][990]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:471][991]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:485][992]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:499][993]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:513][994]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:526][995]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:539][996]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:553][997]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:566][998]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:578][999]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:596][  0]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:615][  1]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:631][  2]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:649][  3]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:662][  4]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:675][  5]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:702][  6]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:723][  7]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:741][  8]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:760][  9]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:775][ 10]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:797][ 11]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:815][ 12]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:832][ 13]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:848][ 14]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:869][ 15]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:893][ 16]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:907][ 17]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:922][ 18]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:938][ 19]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:954][ 20]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:971][ 21]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.41:987][ 22]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:002][ 23]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:019][ 24]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:035][ 25]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:050][ 26]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:064][ 27]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:165][ 35]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:178][ 36]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:198][ 37]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:212][ 38]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:227][ 39]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:240][ 40]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:254][ 41]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:266][ 42]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:285][ 43]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:299][ 44]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:314][ 45]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:337][ 46]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:352][ 47]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:368][ 48]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:384][ 49]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:403][ 50]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:417][ 51]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:432][ 52]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:460][ 53]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:478][ 54]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:493][ 55]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:509][ 56]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:524][ 57]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:550][ 58]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:566][ 59]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:583][ 60]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:613][ 61]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:637][ 62]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:650][ 63]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:664][ 64]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:677][ 65]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:692][ 66]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:706][ 67]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:721][ 68]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:739][ 69]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:753][ 70]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:769][ 71]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:783][ 72]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:801][ 73]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:815][ 74]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:828][ 75]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:843][ 76]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:857][ 77]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:873][ 78]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:886][ 79]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.42:901][ 80]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:025][ 90]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:049][ 91]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:065][ 92]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:083][ 93]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:098][ 94]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:123][ 95]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:141][ 96]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:159][ 97]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:174][ 98]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:188][ 99]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:205][100]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:220][101]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:240][102]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:255][103]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:275][104]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:297][105]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:319][106]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:337][107]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:354][108]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:376][109]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:388][110]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:398][111]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:409][112]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:420][113]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:434][114]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:448][115]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:458][116]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:467][117]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:476][118]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:488][119]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:499][120]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:509][121]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:519][122]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:532][123]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:542][124]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:552][125]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:563][126]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:573][127]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:583][128]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:592][129]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:603][130]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:611][131]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:621][132]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:629][133]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:640][134]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:650][135]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:660][136]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:669][137]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:679][138]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:687][139]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:697][140]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:707][141]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:717][142]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:725][143]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:735][144]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:751][145]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:764][146]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:777][147]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:789][148]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:799][149]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:809][150]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:819][151]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:829][152]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:840][153]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:851][154]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:862][155]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:872][156]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:881][157]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:891][158]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:901][159]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:910][160]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:923][161]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:948][162]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:968][163]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.43:986][164]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:008][165]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:022][166]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:043][167]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:063][168]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:086][169]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:100][170]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:121][171]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:139][172]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:154][173]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:176][174]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:199][175]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:216][176]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:226][177]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:238][178]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:248][179]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:267][180]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:277][181]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:286][182]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:297][183]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:306][184]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:316][185]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:325][186]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:336][187]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:345][188]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:354][189]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:365][190]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:375][191]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:385][192]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:396][193]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:412][194]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:423][195]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:433][196]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:447][197]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:457][198]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:468][199]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:476][200]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:489][201]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:498][202]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:508][203]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:519][204]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:529][205]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:539][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-20.34.44:540][206]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:621][215]LogBlueprintUserMessages: [Portal_1237] Plane Width: 0.28581
+[2018.11.11-20.34.44:623][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.11-20.34.44:663][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.11-20.34.44:686][215]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a03fabf70, Size=24
+[2018.11.11-20.34.47:588][502]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2018.11.11-20.37.39:375][901]LogTemp: Repeating last play command: Standalone Game
+[2018.11.11-20.37.40:771][901]LogSlate: Window 'Save Content' being destroyed
+[2018.11.11-20.37.40:774][901]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2018.11.11-20.37.40:774][901]PIE: Warning: PIE failed because map save was canceled
+[2018.11.11-20.37.42:225][ 35]LogSlate: Window 'Message Log' being destroyed
+[2018.11.11-20.37.42:229][ 35]LogSlate: Window 'Message Log' being destroyed
+[2018.11.11-20.37.43:046][115]BlueprintLog: New page: Compile TestingLevel1
+[2018.11.11-20.37.43:053][115]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a03faae48, Size=24
+[2018.11.11-20.37.43:053][115]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a067b6800, Size=24, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_40:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.37.43:055][115]LogBlueprint: Error: [Compiler PersistentLevel.TestingLevel1] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.11.11-20.37.43:056][115]LogBlueprint: Error: [Compiler PersistentLevel.TestingLevel1] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.11.11-20.37.43:057][115]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a067b5b58, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.37.43:171][115]LogBlueprint: Warning: [Compiler PersistentLevel.TestingLevel1] [0297.61] Compile of PersistentLevel.TestingLevel1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 123 ms] (/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1)
+[2018.11.11-20.37.44:487][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a067b6800, Size=24
+[2018.11.11-20.37.44:518][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a067b5b58, Size=24
+[2018.11.11-20.37.44:518][226]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a065e41f0, Size=24, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_44:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.37.44:519][226]LogBlueprint: Error: [Compiler PersistentLevel.TestingLevel1] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.11.11-20.37.44:519][226]LogBlueprint: Error: [Compiler PersistentLevel.TestingLevel1] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.11.11-20.37.44:519][226]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a065e4b20, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.37.44:520][226]LogBlueprint: Warning: [Compiler PersistentLevel.TestingLevel1] [0298.96] Compile of PersistentLevel.TestingLevel1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 5 ms] (/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1)
+[2018.11.11-20.37.44:666][226]LogSavePackage: Save=154.66ms
+[2018.11.11-20.37.44:666][226]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel1751E2BFC45C0465C2C9AE28CD3906C50.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap'
+[2018.11.11-20.37.44:670][226]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap
+[2018.11.11-20.37.44:711][226]LogFileHelpers: Saving map 'TestingLevel1' took 0.336
+[2018.11.11-20.38.02:240][781]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a065e41f0, Size=24
+[2018.11.11-20.38.02:263][781]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a065e4b20, Size=24
+[2018.11.11-20.38.02:264][781]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a07687940, Size=24, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_48:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.38.02:265][781]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a07686db8, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.38.02:405][781]LogSavePackage: Save=147.43ms
+[2018.11.11-20.38.02:405][781]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel14FEE5DBA470116385CD1B9AB39AE3880.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap'
+[2018.11.11-20.38.02:409][781]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap
+[2018.11.11-20.38.02:448][781]LogFileHelpers: Saving map 'TestingLevel1' took 0.314
+[2018.11.11-20.38.02:794][812]BlueprintLog: New page: Compile TestingLevel1
+[2018.11.11-20.38.02:800][812]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a07686db8, Size=24
+[2018.11.11-20.38.02:800][812]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a0620b5c8, Size=24, TestingLevel1_C_0 Function /Engine/Transient.REINST_TestingLevel1_C_52:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.38.02:801][812]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a0620a890, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.38.02:901][812]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a07687940, Size=24
+[2018.11.11-20.38.04:409][950]LogSlate: Window 'TestingLevel1* - Level Blueprint Editor' being destroyed
+[2018.11.11-20.38.04:412][950]LogSlate: Window 'TestingLevel1* - Level Blueprint Editor' being destroyed
+[2018.11.11-20.38.05:354][ 56]LogTemp: Repeating last play command: Standalone Game
+[2018.11.11-20.38.05:402][ 56]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a0620b5c8, Size=24
+[2018.11.11-20.38.07:742][ 56]LogSlate: Window 'Save Content' being destroyed
+[2018.11.11-20.38.07:892][ 56]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a0620a890, Size=24
+[2018.11.11-20.38.07:892][ 56]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a067b53f0, Size=24, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_56:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.38.07:894][ 56]LogUObjectGlobals: Created PersistentFrame Addr=0x0000023a067b4898, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.38.08:039][ 56]LogSavePackage: Save=154.43ms
+[2018.11.11-20.38.08:039][ 56]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel1AF13E1CF4B04FF12F70DD6968216B41C.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap'
+[2018.11.11-20.38.08:043][ 56]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap
+[2018.11.11-20.38.08:084][ 56]LogFileHelpers: Saving map 'TestingLevel1' took 0.325
+[2018.11.11-20.38.08:087][ 56]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2018.11.11-20.38.36:176][602]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.11.11-20.38.41:650][156]LogEditorViewport: Clicking on Actor (LMB): SceneCapture2D (SceneCapture2D1)
+[2018.11.11-20.38.44:146][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground2)
+[2018.11.11-20.38.45:681][567]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.11.11-20.38.46:873][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.11-20.38.46:975][695]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a067b53f0, Size=24
+[2018.11.11-20.38.47:003][695]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000023a067b4898, Size=24
+[2018.11.11-20.38.47:003][695]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239fa46c9e8, Size=24, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_60:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.38.47:005][695]LogUObjectGlobals: Created PersistentFrame Addr=0x00000239fa46d690, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.11-20.38.47:142][695]LogSavePackage: Save=145.47ms
+[2018.11.11-20.38.47:142][695]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel13A162F414D8E879EF65CB195F8C42990.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap'
+[2018.11.11-20.38.47:146][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap
+[2018.11.11-20.38.47:226][695]LogSavePackage: Save=15.91ms
+[2018.11.11-20.38.47:226][695]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel1_BuiltDataA9ADEA354135E3B67B14F9B2AE232966.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1_BuiltData.uasset'
+[2018.11.11-20.38.47:228][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1_BuiltData.uasset
