@@ -7244,3 +7244,154 @@ LogInit: Object subsystem initialized
 [2018.11.12-05.15.19:570][638]LogSavePackage: Save=12.42ms
 [2018.11.12-05.15.19:570][638]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel1_BuiltData81192CCD489D6F5054CB36B24CF1C2A9.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1_BuiltData.uasset'
 [2018.11.12-05.15.19:572][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1_BuiltData.uasset
+[2018.11.12-05.15.38:273][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.15.43:409][294]LogEditorActor: Deleted Actor: Portal_C
+[2018.11.12-05.15.43:431][294]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e07fda5800, Size=128
+[2018.11.12-05.15.43:431][294]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.11.12-05.16.12:814][697]LogSavePackage: Save=15.99ms
+[2018.11.12-05.16.12:814][697]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/PortalSpawner119F495A471A8330A1163391C10801B2.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Blueprints/PortalSpawner.uasset'
+[2018.11.12-05.16.12:818][697]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Blueprints/PortalSpawner.uasset
+[2018.11.12-05.16.13:290][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.16.13:395][742]BlueprintLog: New page: Compile PortalSpawner
+[2018.11.12-05.16.16:756][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.16.16:831][ 26]LogTemp: Repeating last play command: Standalone Game
+[2018.11.12-05.16.17:966][ 26]LogSlate: Window 'Save Content' being destroyed
+[2018.11.12-05.16.17:976][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-05.16.18:127][ 26]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e07fda6c80, Size=128
+[2018.11.12-05.16.18:128][ 26]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e040c14c00, Size=128, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_967:ExecuteUbergraph_TestingLevel1
+[2018.11.12-05.16.18:130][ 26]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e040c14700, Size=128, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.12-05.16.18:275][ 26]LogSavePackage: Save=160.17ms
+[2018.11.12-05.16.18:275][ 26]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel1185201F2483B071175B93DA164CA5B97.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap'
+[2018.11.12-05.16.18:279][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap
+[2018.11.12-05.16.18:308][ 26]LogFileHelpers: Saving map 'TestingLevel1' took 0.323
+[2018.11.12-05.16.18:312][ 26]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2018.11.12-05.16.41:973][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-05.16.50:669][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-05.16.51:655][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.16.51:655][337]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.12-05.16.51:661][337]LogPlayLevel: [PlayLevel] Compiling SimpleUI before play...
+[2018.11.12-05.16.51:663][337]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001df2a4829b0, Size=48
+[2018.11.12-05.16.51:663][337]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0898fbaf0, Size=48, Default__SimpleUI_C Function /Engine/Transient.REINST_SimpleUI_C_23:ExecuteUbergraph_SimpleUI
+[2018.11.12-05.16.51:666][337]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e06b195f30, Size=104, Default__SimpleUI_C Function /Game/Assets/UserInterface/SimpleUI.SimpleUI_C:ExecuteUbergraph_SimpleUI
+[2018.11.12-05.16.51:776][337]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e0898fbaf0, Size=48
+[2018.11.12-05.16.51:777][337]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e040c14c00, Size=128
+[2018.11.12-05.16.51:777][337]LogPlayLevel: PlayLevel: Blueprint regeneration took 122 ms (1 blueprints)
+[2018.11.12-05.16.51:778][337]PIE: New page: SIE session: TestingLevel1 (Nov 11, 2018, 1:16:51 PM)
+[2018.11.12-05.16.51:778][337]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TestingLevel1
+[2018.11.12-05.16.51:781][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003301s)
+[2018.11.12-05.16.51:782][337]LogAIModule: Creating AISystem for world TestingLevel1
+[2018.11.12-05.16.51:782][337]LogPlayLevel: PIE: World Init took: (0.000906s)
+[2018.11.12-05.16.51:782][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TestingLevel1.TestingLevel1 to /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1 (0.004379s)
+[2018.11.12-05.16.51:828][337]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.12-05.16.51:841][337]LogInit: FAudioDevice initialized.
+[2018.11.12-05.16.51:841][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.12-05.16.51:874][337]LogLoad: Game class is 'GameModeTest_C'
+[2018.11.12-05.16.51:876][337]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1 up for play (max tick rate 0) at 2018.11.11-21.16.51
+[2018.11.12-05.16.51:877][337]LogWorld: Bringing up level for play took: 0.001380
+[2018.11.12-05.16.51:878][337]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TestingLevel1 0.111
+[2018.11.12-05.16.51:884][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.16.59:301][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.16.59:399][ 22]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1:PersistentLevel.Portal_C_0.Plane: Material index -1 is invalid.
+[2018.11.12-05.17.00:425][126]LogEditorViewport: Clicking on Actor (LMB): Portal_C (Portal)
+[2018.11.12-05.17.02:694][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.18.08:705][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.18.29:603][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.18.32:469][881]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.18.32:506][881]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.18.37:512][457]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2018.11.12-05.19.16:818][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.19.29:644][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.19.57:655][586]LogEditorViewport: Clicking on Actor (LMB): PortalSpawner_C (PortalSpawner)
+[2018.11.12-05.20.02:045][ 63]LogEditorViewport: Clicking on Actor (LMB): Portal_C (Portal)
+[2018.11.12-05.20.26:177][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.20.35:307][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.21.05:418][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.21.05:418][414]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.12-05.21.05:423][414]LogPlayLevel: [PlayLevel] Compiling PortalSpawner before play...
+[2018.11.12-05.21.05:706][414]LogPlayLevel: PlayLevel: Blueprint regeneration took 287 ms (1 blueprints)
+[2018.11.12-05.21.05:706][414]PIE: New page: SIE session: TestingLevel1 (Nov 11, 2018, 1:21:05 PM)
+[2018.11.12-05.21.05:706][414]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TestingLevel1
+[2018.11.12-05.21.05:709][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003317s)
+[2018.11.12-05.21.05:710][414]LogAIModule: Creating AISystem for world TestingLevel1
+[2018.11.12-05.21.05:710][414]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2018.11.12-05.21.05:710][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TestingLevel1.TestingLevel1 to /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1 (0.004109s)
+[2018.11.12-05.21.05:755][414]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.12-05.21.05:768][414]LogInit: FAudioDevice initialized.
+[2018.11.12-05.21.05:801][414]LogLoad: Game class is 'GameModeTest_C'
+[2018.11.12-05.21.05:803][414]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1 up for play (max tick rate 0) at 2018.11.11-21.21.05
+[2018.11.12-05.21.05:803][414]LogWorld: Bringing up level for play took: 0.001150
+[2018.11.12-05.21.05:804][414]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1:PersistentLevel.Portal_11917.Plane: Material index -1 is invalid.
+[2018.11.12-05.21.05:805][414]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TestingLevel1 0.037
+[2018.11.12-05.21.05:815][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.21.07:724][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.21.07:760][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.21.09:600][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e040c14700, Size=128
+[2018.11.12-05.21.09:600][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e079088500, Size=128, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_980:ExecuteUbergraph_TestingLevel1
+[2018.11.12-05.21.09:603][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e07908ab80, Size=128, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.12-05.21.09:752][788]LogSavePackage: Save=164.25ms
+[2018.11.12-05.21.09:752][788]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel12744F49E4E0C7BE1DF1AF4B33845B10E.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap'
+[2018.11.12-05.21.09:756][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap
+[2018.11.12-05.21.09:826][788]LogSavePackage: Save=12.56ms
+[2018.11.12-05.21.09:826][788]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel1_BuiltData6F74E34D42AF2D516C0BC08AFA286E2C.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1_BuiltData.uasset'
+[2018.11.12-05.21.09:827][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1_BuiltData.uasset
+[2018.11.12-05.21.13:364][175]LogTemp: Repeating last play command: Simulate
+[2018.11.12-05.21.13:386][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.21.13:386][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.12-05.21.13:386][175]PIE: New page: SIE session: TestingLevel1 (Nov 11, 2018, 1:21:13 PM)
+[2018.11.12-05.21.13:386][175]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TestingLevel1
+[2018.11.12-05.21.13:390][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003367s)
+[2018.11.12-05.21.13:390][175]LogAIModule: Creating AISystem for world TestingLevel1
+[2018.11.12-05.21.13:390][175]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.11.12-05.21.13:390][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TestingLevel1.TestingLevel1 to /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1 (0.004078s)
+[2018.11.12-05.21.13:411][175]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e079088500, Size=128
+[2018.11.12-05.21.13:437][175]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.12-05.21.13:448][175]LogInit: FAudioDevice initialized.
+[2018.11.12-05.21.13:485][175]LogLoad: Game class is 'GameModeTest_C'
+[2018.11.12-05.21.13:487][175]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1 up for play (max tick rate 0) at 2018.11.11-21.21.13
+[2018.11.12-05.21.13:487][175]LogWorld: Bringing up level for play took: 0.001113
+[2018.11.12-05.21.13:488][175]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1:PersistentLevel.Portal_11917.Plane: Material index -1 is invalid.
+[2018.11.12-05.21.13:489][175]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TestingLevel1 -0.279
+[2018.11.12-05.21.13:493][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.21.15:531][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.21.18:302][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.21.18:338][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.21.21:006][955]LogSavePackage: Save=11.43ms
+[2018.11.12-05.21.21:006][955]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/PortalSpawner4D1B648B4EA35E1678A3D0B855E56598.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Blueprints/PortalSpawner.uasset'
+[2018.11.12-05.21.21:009][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Blueprints/PortalSpawner.uasset
+[2018.11.12-05.21.43:587][958]LogEditorViewport: Clicking on Actor (LMB): Portal_C (Portal)
+[2018.11.12-05.21.50:765][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.12-05.24.38:193][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.24.38:194][803]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.12-05.24.38:200][803]LogPlayLevel: [PlayLevel] Compiling PortalSpawner before play...
+[2018.11.12-05.24.38:482][803]LogPlayLevel: PlayLevel: Blueprint regeneration took 289 ms (1 blueprints)
+[2018.11.12-05.24.38:482][803]PIE: New page: SIE session: TestingLevel1 (Nov 11, 2018, 1:24:38 PM)
+[2018.11.12-05.24.38:482][803]LogPlayLevel: Creating play world package: /Game/Assets/Levels/UEDPIE_0_TestingLevel1
+[2018.11.12-05.24.38:486][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003339s)
+[2018.11.12-05.24.38:486][803]LogAIModule: Creating AISystem for world TestingLevel1
+[2018.11.12-05.24.38:486][803]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2018.11.12-05.24.38:487][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Levels/TestingLevel1.TestingLevel1 to /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1 (0.004154s)
+[2018.11.12-05.24.38:532][803]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.12-05.24.38:544][803]LogInit: FAudioDevice initialized.
+[2018.11.12-05.24.38:579][803]LogLoad: Game class is 'GameModeTest_C'
+[2018.11.12-05.24.38:582][803]LogWorld: Bringing World /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1 up for play (max tick rate 0) at 2018.11.11-21.24.38
+[2018.11.12-05.24.38:582][803]LogWorld: Bringing up level for play took: 0.001600
+[2018.11.12-05.24.38:583][803]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Assets/Levels/UEDPIE_0_TestingLevel1.TestingLevel1:PersistentLevel.Portal_11917.Plane: Material index -1 is invalid.
+[2018.11.12-05.24.38:584][803]PIE: Play in editor start time for /Game/Assets/Levels/UEDPIE_0_TestingLevel1 0.816
+[2018.11.12-05.24.38:595][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.24.40:364][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.24.40:402][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1' with GeneratedClass '/Game/Assets/Levels/TestingLevel1.TestingLevel1_C' with ClassGeneratedBy '/Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.TestingLevel1'
+[2018.11.12-05.24.41:264][  3]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e07908ab80, Size=128
+[2018.11.12-05.24.41:264][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e097182900, Size=128, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_989:ExecuteUbergraph_TestingLevel1
+[2018.11.12-05.24.41:267][  3]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e097183f00, Size=128, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.12-05.24.41:414][  3]LogSavePackage: Save=162.26ms
+[2018.11.12-05.24.41:414][  3]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel136C266F3493DF0A49530B5BD0D785C35.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap'
+[2018.11.12-05.24.41:417][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap
+[2018.11.12-05.24.41:482][  3]LogSavePackage: Save=12.61ms
+[2018.11.12-05.24.41:482][  3]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel1_BuiltDataA063E2CB4C8D461FB26E76BD33D596CC.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1_BuiltData.uasset'
+[2018.11.12-05.24.41:483][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1_BuiltData.uasset
+[2018.11.12-05.24.45:546][417]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e097182900, Size=128
+[2018.11.12-05.24.46:861][417]LogSlate: Window 'Save Content' being destroyed
+[2018.11.12-05.24.46:916][417]LogSavePackage: Save=15.31ms
+[2018.11.12-05.24.46:916][417]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/PortalSpawner3F7DA3B94451833D738B1B9A94001DB2.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Blueprints/PortalSpawner.uasset'
+[2018.11.12-05.24.46:920][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Blueprints/PortalSpawner.uasset
+[2018.11.12-05.24.46:926][417]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
