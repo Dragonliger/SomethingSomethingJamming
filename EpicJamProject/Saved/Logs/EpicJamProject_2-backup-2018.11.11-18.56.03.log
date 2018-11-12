@@ -1,0 +1,990 @@
+﻿Log file open, 11/11/18 18:55:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: EpicJamProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2080923258) SRandInit(2080923258).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.299263
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.466s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am cdm-z77-04 (10.159.23.2:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  /Game/Assets/Levels/TestingLevel1 -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -nohmd -windowed 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.009s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.12-02.55.38:497][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-02.55.38:497][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.12-02.55.38:503][  0]LogInit: Computer: CDM-Z77-04
+[2018.11.12-02.55.38:503][  0]LogInit: User: user
+[2018.11.12-02.55.38:503][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.12-02.55.38:503][  0]LogInit: High frequency timer resolution =3.330098 MHz
+[2018.11.12-02.55.38:504][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.12-02.55.38:504][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.12-02.55.38:504][  0]LogMemory: Process Physical Memory: 274.02 MB used, 274.02 MB peak
+[2018.11.12-02.55.38:504][  0]LogMemory: Process Virtual Memory: 264.86 MB used, 264.86 MB peak
+[2018.11.12-02.55.38:504][  0]LogMemory: Physical Memory: 4494.96 MB used,  3645.35 MB free, 8140.31 MB total
+[2018.11.12-02.55.38:504][  0]LogMemory: Virtual Memory: 4795.21 MB used,  3645.35 MB free, 134217728.00 MB total
+[2018.11.12-02.55.38:528][  0]LogInit: Using OS detected language (en-US).
+[2018.11.12-02.55.38:528][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.12-02.55.38:528][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.11.12-02.55.38:528][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2018.11.12-02.55.38:983][  0]LogStreaming: Display: Took  0.454s to EndInitTextLocalization.
+[2018.11.12-02.55.39:008][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.12-02.55.39:008][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.12-02.55.39:011][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.12-02.55.39:092][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.11.12-02.55.39:092][  0]LogD3D11RHI:       6052/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.12-02.55.39:094][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.12-02.55.39:094][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.12-02.55.39:094][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.12-02.55.39:103][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.12-02.55.39:103][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.12-02.55.39:103][  0]LogWindows: EnumDisplayDevices:
+[2018.11.12-02.55.39:103][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.11.12-02.55.39:103][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.12-02.55.39:104][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.12-02.55.39:104][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.11.12-02.55.39:104][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.11.12-02.55.39:104][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.11.12-02.55.39:104][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.11.12-02.55.39:104][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.11.12-02.55.39:104][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.11.12-02.55.39:166][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.12-02.55.39:166][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.11.12-02.55.39:166][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.12-02.55.39:200][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.12-02.55.39:202][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Intermediate/Shaders/WorkingDirectory/11176/).
+[2018.11.12-02.55.39:202][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/62E277FB4286F989AAC538B1481AF033/'.
+[2018.11.12-02.55.39:455][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.12-02.55.39:471][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.12-02.55.39:486][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.12-02.55.39:502][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.12-02.55.39:502][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.12-02.55.39:647][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.12-02.55.39:647][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.12-02.55.39:647][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.12-02.55.40:419][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.12-02.55.40:516][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/user/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.11.12-02.55.40:516][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.11.12-02.55.40:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.12-02.55.40:516][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.12-02.55.40:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.12-02.55.40:516][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.12-02.55.40:532][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.12-02.55.40:544][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.12-02.55.40:544][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.12-02.55.40:544][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.12-02.55.40:556][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.12-02.55.40:557][  0]LogSlate: Using Freetype 2.6.0
+[2018.11.12-02.55.40:558][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.12-02.55.40:558][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.12-02.55.40:683][  0]LogAssetRegistry: FAssetRegistry took 0.0049 seconds to start up
+[2018.11.12-02.55.40:931][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.008802 seconds
+[2018.11.12-02.55.41:051][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.12-02.55.41:207][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.12-02.55.41:211][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.12-02.55.41:211][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.12-02.55.41:211][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.12-02.55.41:211][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.12-02.55.41:211][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.12-02.55.41:249][  0]LogNetVersion: EpicJamProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1335748515)
+[2018.11.12-02.55.42:018][  0]LogMoviePlayer: Initializing movie player
+[2018.11.12-02.55.42:348][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.12-02.55.42:383][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.12-02.55.42:670][  0]SourceControl: Source control is disabled
+[2018.11.12-02.55.42:670][  0]SourceControl: Source control is disabled
+[2018.11.12-02.55.42:693][  0]SourceControl: Source control is disabled
+[2018.11.12-02.55.43:130][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.12-02.55.43:352][  0]LogOcInput: OculusInput pre-init called
+[2018.11.12-02.55.43:404][  0]LogUObjectArray: 40124 objects as part of root set at end of initial load.
+[2018.11.12-02.55.43:404][  0]LogUObjectAllocator: 8364208 out of 0 bytes used by permanent object pool.
+[2018.11.12-02.55.43:404][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.12-02.55.43:458][  0]LogEngine: Initializing Engine...
+[2018.11.12-02.55.43:471][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-02.55.43:471][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-02.55.43:674][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.12-02.55.43:694][  0]LogInit: FAudioDevice initialized.
+[2018.11.12-02.55.43:722][  0]LogInit: Texture streaming: Enabled
+[2018.11.12-02.55.43:851][  0]LogInit: Display: Game Engine Initialized.
+[2018.11.12-02.55.43:851][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.12-02.55.43:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.12-02.55.43:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.12-02.55.43:976][  0]LogInit: Display: Starting Game.
+[2018.11.12-02.55.43:976][  0]LogNet: Browse: /Game/Assets/Levels/TestingLevel1?Name=Player
+[2018.11.12-02.55.43:976][  0]LogLoad: LoadMap: /Game/Assets/Levels/TestingLevel1?Name=Player
+[2018.11.12-02.55.43:989][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a55a589b58, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.12-02.55.43:990][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a55a5f3220, Size=48, Default__SimpleUI_C Function /Game/Assets/UserInterface/SimpleUI.SimpleUI_C:ExecuteUbergraph_SimpleUI
+[2018.11.12-02.55.43:992][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a555028100, Size=188, Default__MainCharacter_C Function /Game/Assets/Blueprints/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter
+[2018.11.12-02.55.44:069][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a55a295da0, Size=144, Default__Portal_C Function /Game/Assets/Blueprints/Portal.Portal_C:ExecuteUbergraph_Portal
+[2018.11.12-02.55.44:098][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a555028100, Size=188
+[2018.11.12-02.55.44:098][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a55a11bf40, Size=188, Default__MainCharacter_C Function /Engine/Transient.REINST_MainCharacter_C_4:ExecuteUbergraph_MainCharacter
+[2018.11.12-02.55.44:099][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a55a295da0, Size=144
+[2018.11.12-02.55.44:099][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a55a10fba0, Size=144, Default__Portal_C Function /Engine/Transient.REINST_Portal_C_5:ExecuteUbergraph_Portal
+[2018.11.12-02.55.44:099][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a55a5f3220, Size=48
+[2018.11.12-02.55.44:099][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a55a5f3220, Size=48, Default__SimpleUI_C Function /Engine/Transient.REINST_SimpleUI_C_0:ExecuteUbergraph_SimpleUI
+[2018.11.12-02.55.44:125][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a55a029480, Size=188, Default__MainCharacter_C Function /Game/Assets/Blueprints/MainCharacter.MainCharacter_C:ExecuteUbergraph_MainCharacter
+[2018.11.12-02.55.44:127][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a55a008720, Size=144, Default__Portal_C Function /Game/Assets/Blueprints/Portal.Portal_C:ExecuteUbergraph_Portal
+[2018.11.12-02.55.44:128][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a559fdd450, Size=48, Default__SimpleUI_C Function /Game/Assets/UserInterface/SimpleUI.SimpleUI_C:ExecuteUbergraph_SimpleUI
+[2018.11.12-02.55.44:132][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a55a589b58, Size=24
+[2018.11.12-02.55.44:132][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a55a0932e0, Size=24, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_16:ExecuteUbergraph_TestingLevel1
+[2018.11.12-02.55.44:134][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002a55a092aa0, Size=24, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.12-02.55.44:207][  0]LogAIModule: Creating AISystem for world TestingLevel1
+[2018.11.12-02.55.44:208][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.12-02.55.44:208][  0]LogLoad: Game class is 'GameModeBase'
+[2018.11.12-02.55.44:214][  0]LogWorld: Bringing World /Game/Assets/Levels/TestingLevel1.TestingLevel1 up for play (max tick rate 0) at 2018.11.11-18.55.44
+[2018.11.12-02.55.44:214][  0]LogWorld: Bringing up level for play took: 0.005573
+[2018.11.12-02.55.44:215][  0]LogPrimitiveComponent: Warning: CreateDynamicMaterialInstance on /Game/Assets/Levels/TestingLevel1.TestingLevel1:PersistentLevel.Portal_1237.Plane: Material index -1 is invalid.
+[2018.11.12-02.55.44:216][  0]LogLoad: Took 0.240738 seconds to LoadMap(/Game/Assets/Levels/TestingLevel1)
+[2018.11.12-02.55.44:267][  0]LogLoad: (Engine Initialization) Total time: 8.96 seconds
+[2018.11.12-02.55.44:267][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.12-02.55.44:313][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.11.12-02.55.44:342][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.11.12-02.55.44:382][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-02.55.44:447][  0]LogOcInput: OculusInput is initialized
+[2018.11.12-02.55.44:450][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.12-02.55.44:632][  1]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:632][  1]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:648][  2]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:648][  2]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:664][  3]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:664][  3]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:680][  4]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:680][  4]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:696][  5]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:696][  5]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:712][  6]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:712][  6]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:729][  7]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:729][  7]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:745][  8]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:745][  8]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:761][  9]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:761][  9]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:777][ 10]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:777][ 10]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:793][ 11]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:793][ 11]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:809][ 12]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:809][ 12]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:825][ 13]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:825][ 13]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:841][ 14]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:841][ 14]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:858][ 15]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:858][ 15]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:874][ 16]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:874][ 16]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:890][ 17]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:890][ 17]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:906][ 18]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:906][ 18]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:922][ 19]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:922][ 19]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:938][ 20]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:938][ 20]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:954][ 21]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:954][ 21]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:971][ 22]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:971][ 22]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.44:987][ 23]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.44:987][ 23]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:003][ 24]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:003][ 24]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:019][ 25]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:019][ 25]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:035][ 26]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:035][ 26]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:051][ 27]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:051][ 27]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:067][ 28]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:067][ 28]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:083][ 29]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:084][ 29]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:100][ 30]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:100][ 30]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:116][ 31]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:116][ 31]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:132][ 32]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:132][ 32]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:148][ 33]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:148][ 33]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:164][ 34]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:164][ 34]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:180][ 35]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:180][ 35]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:196][ 36]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:196][ 36]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:213][ 37]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:213][ 37]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:229][ 38]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:229][ 38]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:245][ 39]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:245][ 39]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:261][ 40]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:261][ 40]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:277][ 41]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:277][ 41]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:293][ 42]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:293][ 42]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:309][ 43]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:310][ 43]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:326][ 44]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:326][ 44]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:342][ 45]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:342][ 45]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:358][ 46]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:358][ 46]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:374][ 47]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:374][ 47]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:390][ 48]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:390][ 48]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:406][ 49]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:406][ 49]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:422][ 50]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:422][ 50]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:438][ 51]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:439][ 51]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:455][ 52]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:455][ 52]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:471][ 53]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:471][ 53]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:487][ 54]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:487][ 54]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:503][ 55]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:503][ 55]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:519][ 56]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:519][ 56]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:535][ 57]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:535][ 57]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:551][ 58]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:551][ 58]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:568][ 59]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:568][ 59]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:584][ 60]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:584][ 60]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:600][ 61]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:600][ 61]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:616][ 62]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:616][ 62]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:632][ 63]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:632][ 63]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:648][ 64]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:648][ 64]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:664][ 65]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:665][ 65]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:681][ 66]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:681][ 66]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:697][ 67]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:697][ 67]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:713][ 68]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:713][ 68]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:728][ 69]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:728][ 69]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:744][ 70]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:744][ 70]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:760][ 71]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:760][ 71]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:776][ 72]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:776][ 72]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:793][ 73]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:793][ 73]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:809][ 74]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:809][ 74]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:825][ 75]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:825][ 75]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:841][ 76]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:841][ 76]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:857][ 77]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:857][ 77]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:873][ 78]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:873][ 78]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:889][ 79]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:889][ 79]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:905][ 80]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:906][ 80]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:922][ 81]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:922][ 81]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:938][ 82]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:938][ 82]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:954][ 83]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:954][ 83]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:970][ 84]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:970][ 84]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.45:986][ 85]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.45:986][ 85]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:002][ 86]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:002][ 86]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:018][ 87]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:019][ 87]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:035][ 88]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:035][ 88]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:051][ 89]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:051][ 89]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:067][ 90]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:067][ 90]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:083][ 91]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:083][ 91]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:099][ 92]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:099][ 92]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:115][ 93]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:115][ 93]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:131][ 94]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:131][ 94]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:148][ 95]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:148][ 95]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:164][ 96]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:164][ 96]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:180][ 97]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:180][ 97]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:196][ 98]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:196][ 98]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:212][ 99]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:212][ 99]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:228][100]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:228][100]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:244][101]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:244][101]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:261][102]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:261][102]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:277][103]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:277][103]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:293][104]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:293][104]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:309][105]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:309][105]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:325][106]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:325][106]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:341][107]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:341][107]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:357][108]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:357][108]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:374][109]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:374][109]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:390][110]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:390][110]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:406][111]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:406][111]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:422][112]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:422][112]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:438][113]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:438][113]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:454][114]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:455][114]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:471][115]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:471][115]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:487][116]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:487][116]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:503][117]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:503][117]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:519][118]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:519][118]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:535][119]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:535][119]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:551][120]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:551][120]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:567][121]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:568][121]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:583][122]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:583][122]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:600][123]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:600][123]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:616][124]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:616][124]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:632][125]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:632][125]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:648][126]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:648][126]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:664][127]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:664][127]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:680][128]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:681][128]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:697][129]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:697][129]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:713][130]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:713][130]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:729][131]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:729][131]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:745][132]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:745][132]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:761][133]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:761][133]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:777][134]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:777][134]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:794][135]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:794][135]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:809][136]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:809][136]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:825][137]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:826][137]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:842][138]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:842][138]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:858][139]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:858][139]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:874][140]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:874][140]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:890][141]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:890][141]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:906][142]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:906][142]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:922][143]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:922][143]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:938][144]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:939][144]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:955][145]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:955][145]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:971][146]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:971][146]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.46:987][147]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.46:987][147]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:003][148]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:003][148]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:019][149]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:019][149]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:035][150]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:035][150]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:052][151]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:052][151]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:068][152]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:068][152]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:084][153]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:084][153]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:100][154]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:100][154]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:116][155]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:116][155]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:132][156]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:132][156]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:148][157]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:148][157]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:165][158]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:165][158]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:181][159]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:181][159]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:197][160]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:197][160]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:213][161]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:213][161]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:229][162]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:229][162]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:245][163]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:245][163]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:261][164]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:261][164]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:277][165]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:277][165]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:293][166]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:293][166]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:309][167]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:309][167]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:325][168]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:325][168]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:342][169]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:342][169]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:358][170]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:358][170]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:374][171]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:374][171]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:390][172]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:390][172]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:406][173]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:406][173]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:422][174]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:422][174]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:438][175]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:438][175]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:455][176]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:455][176]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:471][177]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:471][177]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:487][178]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:487][178]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:503][179]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:503][179]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:519][180]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:519][180]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:535][181]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:535][181]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:551][182]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:551][182]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:567][183]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:568][183]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:584][184]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:584][184]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:600][185]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:600][185]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:616][186]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:616][186]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:632][187]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:632][187]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:648][188]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:648][188]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:664][189]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:664][189]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:680][190]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:681][190]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:697][191]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:697][191]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:713][192]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:713][192]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:729][193]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:729][193]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:745][194]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:745][194]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:761][195]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:761][195]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:777][196]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:777][196]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:793][197]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:793][197]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:810][198]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:810][198]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:826][199]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:826][199]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:842][200]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:842][200]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:858][201]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:858][201]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:874][202]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:874][202]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:890][203]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:890][203]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:906][204]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:906][204]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:923][205]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:923][205]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:938][206]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:938][206]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:954][207]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:954][207]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:970][208]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:970][208]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.47:986][209]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.47:986][209]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:002][210]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:002][210]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:018][211]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:018][211]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:035][212]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:035][212]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:051][213]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:051][213]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:067][214]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:067][214]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:083][215]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:083][215]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:099][216]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:099][216]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:115][217]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:115][217]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:131][218]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:131][218]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:147][219]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:148][219]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:164][220]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:164][220]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:180][221]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:180][221]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:196][222]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:196][222]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:212][223]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:212][223]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:228][224]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:228][224]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:244][225]LogBlueprintUserMessages: [Portal_1237] XWidth: 0.17825
+[2018.11.12-02.55.48:244][225]LogBlueprintUserMessages: [Portal_1237] Width: 0.249999
+[2018.11.12-02.55.48:284][226]LogSlate: Window 'EpicJamProject (64-bit, PCD3D_SM5) ' being destroyed
+[2018.11.12-02.55.48:285][226]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-02.55.48:288][226]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.12-02.55.48:289][226]LogEngine: All Windows Closed
+[2018.11.12-02.55.48:289][226]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.11.12-02.55.48:463][227]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.12-02.55.48:463][227]LogExit: Preparing to exit.
+[2018.11.12-02.55.48:463][227]LogMoviePlayer: Shutting down movie player
+[2018.11.12-02.55.49:419][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a55a0932e0, Size=24
+[2018.11.12-02.55.49:419][227]LogExit: Game engine shut down
+[2018.11.12-02.55.49:422][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a55a5f3220, Size=48
+[2018.11.12-02.55.49:422][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a55a11bf40, Size=188
+[2018.11.12-02.55.49:422][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a55a10fba0, Size=144
+[2018.11.12-02.55.49:422][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a55a029480, Size=188
+[2018.11.12-02.55.49:422][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a55a008720, Size=144
+[2018.11.12-02.55.49:422][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a559fdd450, Size=48
+[2018.11.12-02.55.49:422][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002a55a092aa0, Size=24
+[2018.11.12-02.55.49:476][227]LogExit: Object subsystem successfully closed.
+[2018.11.12-02.55.49:489][227]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.12-02.55.49:492][227]LogD3D11RHI: Shutdown
+[2018.11.12-02.55.49:492][227]LogD3D11RHI: CleanupD3DDevice
+[2018.11.12-02.55.49:493][227]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.12-02.55.49:509][227]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (332)
+[2018.11.12-02.55.49:509][227]LogModuleManager: Shutting down and abandoning module SequenceRecorder (330)
+[2018.11.12-02.55.49:509][227]LogModuleManager: Shutting down and abandoning module AutomationController (328)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module AutomationWorker (326)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module AIModule (324)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module GameplayDebugger (323)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module AITestSuite (321)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (318)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (316)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (314)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (312)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module CharacterAI (310)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module SessionServices (308)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (306)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (304)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module MovieScene (302)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module GeometryCache (300)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (299)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (296)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module PortalServices (294)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module PortalRpc (292)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module MessagingRpc (290)
+[2018.11.12-02.55.49:510][227]LogModuleManager: Shutting down and abandoning module ProfilerService (288)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module TaskGraph (286)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module SteamVRController (284)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (282)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module OculusInput (280)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (278)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (276)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module CableComponent (274)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module AudioCapture (272)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (270)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module AndroidPermission (268)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (264)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (262)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module MediaCompositing (260)
+[2018.11.12-02.55.49:684][227]LogModuleManager: Shutting down and abandoning module LinearTimecode (258)
+[2018.11.12-02.55.49:685][227]LogModuleManager: Shutting down and abandoning module ImgMedia (256)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module HTML5Networking (254)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module DatasmithContent (252)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (250)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module CryptoKeys (248)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (246)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module HotReload (245)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (244)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (240)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module UObjectPlugin (238)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (236)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (234)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module SourceControl (233)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (230)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (228)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (226)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module PhysXVehicles (224)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (222)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (220)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (218)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module ActorSequence (216)
+[2018.11.12-02.55.49:687][227]LogModuleManager: Shutting down and abandoning module UdpMessaging (214)
+[2018.11.12-02.55.49:788][227]LogModuleManager: Shutting down and abandoning module TcpMessaging (212)
+[2018.11.12-02.55.50:353][227]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (210)
+[2018.11.12-02.55.50:353][227]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2018.11.12-02.55.50:353][227]LogModuleManager: Shutting down and abandoning module DataValidation (206)
+[2018.11.12-02.55.50:353][227]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (204)
+[2018.11.12-02.55.50:353][227]LogModuleManager: Shutting down and abandoning module TreeMap (203)
+[2018.11.12-02.55.50:353][227]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (200)
+[2018.11.12-02.55.50:353][227]LogModuleManager: Shutting down and abandoning module LiveLink (198)
+[2018.11.12-02.55.51:194][227]LogModuleManager: Shutting down and abandoning module Paper2D (196)
+[2018.11.12-02.55.51:194][227]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (194)
+[2018.11.12-02.55.51:194][227]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (192)
+[2018.11.12-02.55.51:194][227]LogModuleManager: Shutting down and abandoning module WmfMedia (190)
+[2018.11.12-02.55.51:195][227]LogModuleManager: Shutting down and abandoning module Media (189)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module Overlay (178)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module OverlayEditor (177)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module VREditor (174)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module StringTableEditor (172)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (170)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (168)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module FunctionalTesting (166)
+[2018.11.12-02.55.51:201][227]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (164)
+[2018.11.12-02.55.51:202][227]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (163)
+[2018.11.12-02.55.51:202][227]LogModuleManager: Shutting down and abandoning module UMG (160)
+[2018.11.12-02.55.51:202][227]LogModuleManager: Shutting down and abandoning module UMGEditor (159)
+[2018.11.12-02.55.51:202][227]LogModuleManager: Shutting down and abandoning module Sequencer (158)
+[2018.11.12-02.55.51:202][227]LogModuleManager: Shutting down and abandoning module MessageLog (155)
+[2018.11.12-02.55.51:202][227]LogModuleManager: Shutting down and abandoning module SlateReflector (150)
+[2018.11.12-02.55.51:202][227]LogModuleManager: Shutting down and abandoning module Slate (148)
+[2018.11.12-02.55.51:202][227]LogModuleManager: Shutting down and abandoning module EditorStyle (146)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module MRMesh (144)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module Messaging (142)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (140)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (138)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module XAudio2 (136)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module Networking (134)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module Core (132)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module LevelSequence (130)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module KismetCompiler (128)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module MeshUtilities (126)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (125)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (124)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (123)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (121)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (119)
+[2018.11.12-02.55.51:203][227]LogModuleManager: Shutting down and abandoning module MaterialBaking (115)
+[2018.11.12-02.55.51:204][227]LogModuleManager: Shutting down and abandoning module DerivedDataCache (110)
+[2018.11.12-02.55.51:549][227]LogDerivedDataCache: Shutdown
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module XGEController (108)
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module TargetPlatform (106)
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (105)
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (103)
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (101)
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (99)
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (97)
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (95)
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (93)
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (91)
+[2018.11.12-02.55.51:549][227]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (89)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (87)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module ImageWrapper (86)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (83)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (81)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (79)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (77)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (75)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (73)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (71)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (69)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.11.12-02.55.51:550][227]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.11.12-02.55.51:565][227]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.11.12-02.55.51:566][227]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.12-02.55.51:566][227]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.12-02.55.51:566][227]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.12-02.55.51:566][227]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.12-02.55.51:567][227]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.12-02.55.51:571][227]LogExit: Exiting.
+[2018.11.12-02.55.51:573][227]Log file closed, 11/11/18 18:55:51
