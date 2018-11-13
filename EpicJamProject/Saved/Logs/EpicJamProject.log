@@ -1509,3 +1509,486 @@ LogInit: Object subsystem initialized
 [2018.11.13-02.23.41:612][610]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/human-bumpy-skin-1_Auto5181C570B4604F91E9E33B4AC1817F0C1.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Autosaves/Game/Assets/Levels/human-bumpy-skin-1_Auto5.uasset'
 [2018.11.13-02.23.41:613][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Autosaves/Game/Assets/Levels/human-bumpy-skin-1_Auto5.uasset
 [2018.11.13-02.23.41:613][610]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.11.13-02.31.54:088][165]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e58c51f80, Size=128
+[2018.11.13-02.31.55:367][165]LogSlate: Window 'Save Content' being destroyed
+[2018.11.13-02.31.55:409][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/blinn1" FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/blinn1.uasset" SILENT=true
+[2018.11.13-02.31.55:428][165]LogSavePackage: Save=15.64ms
+[2018.11.13-02.31.55:428][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/blinn15854265840DBE01D7A86EB84C7C6A7AE.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/blinn1.uasset'
+[2018.11.13-02.31.55:438][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/blinn1.uasset
+[2018.11.13-02.31.55:484][165]LogSavePackage: Save=14.83ms
+[2018.11.13-02.31.55:484][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/core__nose_F211687B460920E997A30F898C31284C.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/core__nose_.uasset'
+[2018.11.13-02.31.55:493][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/core__nose_.uasset
+[2018.11.13-02.31.55:527][165]LogSavePackage: Save=14.70ms
+[2018.11.13-02.31.55:527][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/ear_-MaterialA1AB7B914959426BE1F317BD12BFC44A.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/ear_-Material.uasset'
+[2018.11.13-02.31.55:536][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/ear_-Material.uasset
+[2018.11.13-02.31.55:570][165]LogSavePackage: Save=15.01ms
+[2018.11.13-02.31.55:570][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/eyes_materialFA4DC29040EA6E80052B7C97EF6E53EB.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/eyes_material.uasset'
+[2018.11.13-02.31.55:580][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/eyes_material.uasset
+[2018.11.13-02.31.55:614][165]LogSavePackage: Save=14.99ms
+[2018.11.13-02.31.55:614][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/feet_material61AE4AA146C7D72CB03BB3AB142E1D7B.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/feet_material.uasset'
+[2018.11.13-02.31.55:623][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/feet_material.uasset
+[2018.11.13-02.31.56:423][165]LogSavePackage: Save=779.36ms
+[2018.11.13-02.31.56:423][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Hockey_Gates_model57985FBE464B3018CF189EA7D188F10D.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Hockey_Gates_model.uasset'
+[2018.11.13-02.31.56:434][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Hockey_Gates_model.uasset
+[2018.11.13-02.31.56:489][165]LogSavePackage: Save=34.41ms
+[2018.11.13-02.31.56:489][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Hockey_Gates_modelMatA5269A044A8380E0DD239C8020ADC482.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Hockey_Gates_modelMat.uasset'
+[2018.11.13-02.31.56:501][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Hockey_Gates_modelMat.uasset
+[2018.11.13-02.31.56:676][165]LogSavePackage: Save=161.89ms
+[2018.11.13-02.31.56:676][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/human-bumpy-skin-1864B166F42D0015886BDC3AABC298C02.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/human-bumpy-skin-1.uasset'
+[2018.11.13-02.31.56:686][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/human-bumpy-skin-1.uasset
+[2018.11.13-02.31.56:718][165]LogSavePackage: Save=14.11ms
+[2018.11.13-02.31.56:718][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/legs_materialDB14684B4CFF7A4ABFE7ED8E4F293FEC.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/legs_material.uasset'
+[2018.11.13-02.31.56:727][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/legs_material.uasset
+[2018.11.13-02.31.56:744][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/Mat" FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat.uasset" SILENT=true
+[2018.11.13-02.31.56:761][165]LogSavePackage: Save=14.36ms
+[2018.11.13-02.31.56:761][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Mat35F6C71E489090C9F4D01EA74DBD6A69.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat.uasset'
+[2018.11.13-02.31.56:770][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat.uasset
+[2018.11.13-02.31.56:786][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/Mat_1" FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat_1.uasset" SILENT=true
+[2018.11.13-02.31.56:803][165]LogSavePackage: Save=14.78ms
+[2018.11.13-02.31.56:803][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Mat_1D768FD16454B7ECD45818EB277358834.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat_1.uasset'
+[2018.11.13-02.31.56:816][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat_1.uasset
+[2018.11.13-02.31.56:851][165]LogSavePackage: Save=15.70ms
+[2018.11.13-02.31.56:851][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Mat_1_ncl1_1191C2FB64609D8185642B9A7F2E77731.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat_1_ncl1_1.uasset'
+[2018.11.13-02.31.56:860][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat_1_ncl1_1.uasset
+[2018.11.13-02.31.56:895][165]LogSavePackage: Save=14.95ms
+[2018.11.13-02.31.56:895][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Mat_1_ncl1_296B8661C45EFF9B7F218159F799ED684.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat_1_ncl1_2.uasset'
+[2018.11.13-02.31.56:905][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat_1_ncl1_2.uasset
+[2018.11.13-02.31.56:922][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/Mat_2" FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat_2.uasset" SILENT=true
+[2018.11.13-02.31.56:940][165]LogSavePackage: Save=15.27ms
+[2018.11.13-02.31.56:940][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Mat_2FE4726BC4A1F9C0CF5EE0A8219E297D1.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat_2.uasset'
+[2018.11.13-02.31.56:949][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Mat_2.uasset
+[2018.11.13-02.31.56:982][165]LogSavePackage: Save=13.85ms
+[2018.11.13-02.31.56:982][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Material_004457D30A84366E6738BAEA8A7E71C7823.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Material_004.uasset'
+[2018.11.13-02.31.56:992][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Material_004.uasset
+[2018.11.13-02.31.57:024][165]LogSavePackage: Save=14.46ms
+[2018.11.13-02.31.57:024][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Material__body_377BAEF24151B53BE5EA0CB773D1F9CE.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Material__body_.uasset'
+[2018.11.13-02.31.57:034][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Material__body_.uasset
+[2018.11.13-02.31.57:050][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/nose" FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/nose.uasset" SILENT=true
+[2018.11.13-02.31.57:066][165]LogSavePackage: Save=13.91ms
+[2018.11.13-02.31.57:066][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/nose0098B6B14D37BEB4B0B45FB63AFCF7D6.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/nose.uasset'
+[2018.11.13-02.31.57:076][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/nose.uasset
+[2018.11.13-02.31.57:090][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/pig_body" FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_body.uasset" SILENT=true
+[2018.11.13-02.31.57:109][165]LogSavePackage: Save=16.31ms
+[2018.11.13-02.31.57:109][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_body486936A940CBB8B945CBE2855FD8F9D2.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_body.uasset'
+[2018.11.13-02.31.57:118][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_body.uasset
+[2018.11.13-02.31.57:150][165]LogSavePackage: Save=14.94ms
+[2018.11.13-02.31.57:150][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_ear_18224CBB147826F38138B26BA8414B8E4.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_ear_1.uasset'
+[2018.11.13-02.31.57:160][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_ear_1.uasset
+[2018.11.13-02.31.57:193][165]LogSavePackage: Save=15.20ms
+[2018.11.13-02.31.57:193][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_ear_21C8CB6B9456E79E5233C3FB8524F177A.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_ear_2.uasset'
+[2018.11.13-02.31.57:202][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_ear_2.uasset
+[2018.11.13-02.31.57:235][165]LogSavePackage: Save=15.06ms
+[2018.11.13-02.31.57:235][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_eye_1E906CAD942773AE7AEAFE8868DB6C71F.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_eye_1.uasset'
+[2018.11.13-02.31.57:244][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_eye_1.uasset
+[2018.11.13-02.31.57:276][165]LogSavePackage: Save=14.87ms
+[2018.11.13-02.31.57:276][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_eye_311665B1B408784F0C40D639E892FC8CD.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_eye_3.uasset'
+[2018.11.13-02.31.57:285][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_eye_3.uasset
+[2018.11.13-02.31.57:318][165]LogSavePackage: Save=15.06ms
+[2018.11.13-02.31.57:318][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_leg_16A08F36D4559E58608835384DA203676.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_leg_1.uasset'
+[2018.11.13-02.31.57:327][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_leg_1.uasset
+[2018.11.13-02.31.57:361][165]LogSavePackage: Save=15.61ms
+[2018.11.13-02.31.57:361][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_leg_2CEF85A27438E87CB0B6C28BC9FDA6E90.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_leg_2.uasset'
+[2018.11.13-02.31.57:370][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_leg_2.uasset
+[2018.11.13-02.31.57:404][165]LogSavePackage: Save=15.91ms
+[2018.11.13-02.31.57:404][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_leg_361711C33430F6F00AA727EA3C0F7D1F7.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_leg_3.uasset'
+[2018.11.13-02.31.57:414][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_leg_3.uasset
+[2018.11.13-02.31.57:450][165]LogSavePackage: Save=18.22ms
+[2018.11.13-02.31.57:450][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_leg_4719CF86B461AD6F5EBC413BE664EA0F9.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_leg_4.uasset'
+[2018.11.13-02.31.57:461][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_leg_4.uasset
+[2018.11.13-02.31.57:477][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/pig_nose" FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_nose.uasset" SILENT=true
+[2018.11.13-02.31.57:498][165]LogSavePackage: Save=17.65ms
+[2018.11.13-02.31.57:498][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_noseF808A20C4BCE33C09F0E4E9249C4FE26.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_nose.uasset'
+[2018.11.13-02.31.57:507][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_nose.uasset
+[2018.11.13-02.31.57:544][165]LogSavePackage: Save=15.01ms
+[2018.11.13-02.31.57:544][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_queue00EBDF644AD7F859638D68A341F3EEB2.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_queue.uasset'
+[2018.11.13-02.31.57:553][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_queue.uasset
+[2018.11.13-02.31.57:587][165]LogSavePackage: Save=15.56ms
+[2018.11.13-02.31.57:587][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pig_scene2271BD6C4C16B0E7940925AB3A03E4ED.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_scene.uasset'
+[2018.11.13-02.31.57:597][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pig_scene.uasset
+[2018.11.13-02.31.57:631][165]LogSavePackage: Save=14.86ms
+[2018.11.13-02.31.57:631][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/pupils_material507DCE3145BE978D5BDD229BD2F35175.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pupils_material.uasset'
+[2018.11.13-02.31.57:640][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/pupils_material.uasset
+[2018.11.13-02.31.57:672][165]LogSavePackage: Save=14.06ms
+[2018.11.13-02.31.57:672][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/queue_materialDFFFDE7949D1A5A2F15E6090106FD0FF.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/queue_material.uasset'
+[2018.11.13-02.31.57:681][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/queue_material.uasset
+[2018.11.13-02.31.57:700][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/Rock" FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Rock.uasset" SILENT=true
+[2018.11.13-02.31.57:717][165]LogSavePackage: Save=14.01ms
+[2018.11.13-02.31.57:717][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/RockD3B4ED7B43850CD3E16CAE9B2025E601.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Rock.uasset'
+[2018.11.13-02.31.57:726][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Rock.uasset
+[2018.11.13-02.31.57:744][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/Rock_2" FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Rock_2.uasset" SILENT=true
+[2018.11.13-02.31.57:761][165]LogSavePackage: Save=14.87ms
+[2018.11.13-02.31.57:761][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Rock_239140BCE4C7D1C9D952D6B90241C693F.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Rock_2.uasset'
+[2018.11.13-02.31.57:769][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/Rock_2.uasset
+[2018.11.13-02.31.57:786][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Levels/saw" FILE="../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/saw.uasset" SILENT=true
+[2018.11.13-02.31.57:805][165]LogSavePackage: Save=16.05ms
+[2018.11.13-02.31.57:805][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/saw7C8ACEAF488373E2143F368801174710.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/saw.uasset'
+[2018.11.13-02.31.57:814][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/saw.uasset
+[2018.11.13-02.31.57:851][165]LogSavePackage: Save=17.94ms
+[2018.11.13-02.31.57:851][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_cap590890A649B571F914CDFFA26648DA05.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_cap.uasset'
+[2018.11.13-02.31.57:861][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_cap.uasset
+[2018.11.13-02.31.57:899][165]LogSavePackage: Save=19.64ms
+[2018.11.13-02.31.57:900][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_cap_1AD2FACE7493019A3FC463C9B4C3AEA1A.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_cap_1.uasset'
+[2018.11.13-02.31.57:908][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_cap_1.uasset
+[2018.11.13-02.31.57:945][165]LogSavePackage: Save=17.61ms
+[2018.11.13-02.31.57:945][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_cap_1_2B43D375449107ED73BEB10837CD5EF43.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_cap_1_2.uasset'
+[2018.11.13-02.31.57:953][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_cap_1_2.uasset
+[2018.11.13-02.31.57:991][165]LogSavePackage: Save=18.92ms
+[2018.11.13-02.31.57:991][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_cap_1_30B0DD06C44D43E2E4F7151A7E972FEC1.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_cap_1_3.uasset'
+[2018.11.13-02.31.58:000][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_cap_1_3.uasset
+[2018.11.13-02.31.58:038][165]LogSavePackage: Save=16.97ms
+[2018.11.13-02.31.58:038][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_Cube_1242F75FC4FD626E846D7AE94A9422657.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Cube_1.uasset'
+[2018.11.13-02.31.58:046][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Cube_1.uasset
+[2018.11.13-02.31.58:093][165]LogSavePackage: Save=15.75ms
+[2018.11.13-02.31.58:093][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_Cube_1_21894A01E4DE38A30AD3822B410CFD4C0.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Cube_1_2.uasset'
+[2018.11.13-02.31.58:105][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Cube_1_2.uasset
+[2018.11.13-02.31.58:139][165]LogSavePackage: Save=15.42ms
+[2018.11.13-02.31.58:140][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_Cube_1_38241C7E34C9D327845E038AFDDD32C21.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Cube_1_3.uasset'
+[2018.11.13-02.31.58:148][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Cube_1_3.uasset
+[2018.11.13-02.31.58:183][165]LogSavePackage: Save=15.89ms
+[2018.11.13-02.31.58:183][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_Cube_1_4D2B993294E30BAB42E0A30AFBD149BF2.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Cube_1_4.uasset'
+[2018.11.13-02.31.58:192][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Cube_1_4.uasset
+[2018.11.13-02.31.58:228][165]LogSavePackage: Save=15.59ms
+[2018.11.13-02.31.58:228][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_Plane9C2EF352448DC1201AEFF8B063772827.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Plane.uasset'
+[2018.11.13-02.31.58:237][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Plane.uasset
+[2018.11.13-02.31.58:272][165]LogSavePackage: Save=16.42ms
+[2018.11.13-02.31.58:272][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_side_thingyDBF22619474935BD3CE7ABABC74616C6.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_side_thingy.uasset'
+[2018.11.13-02.31.58:281][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_side_thingy.uasset
+[2018.11.13-02.31.58:315][165]LogSavePackage: Save=15.69ms
+[2018.11.13-02.31.58:315][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_side_thingy_1774F56214F12332A209067A7760CD893.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_side_thingy_1.uasset'
+[2018.11.13-02.31.58:325][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_side_thingy_1.uasset
+[2018.11.13-02.31.58:360][165]LogSavePackage: Save=15.83ms
+[2018.11.13-02.31.58:360][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_side_thingy_21E721C2646E591DF75445988ED1D5949.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_side_thingy_2.uasset'
+[2018.11.13-02.31.58:371][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_side_thingy_2.uasset
+[2018.11.13-02.31.58:408][165]LogSavePackage: Save=17.54ms
+[2018.11.13-02.31.58:408][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_side_thingy_36511F97A40DAEB4DEFE479A678072818.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_side_thingy_3.uasset'
+[2018.11.13-02.31.58:414][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_side_thingy_3.uasset
+[2018.11.13-02.31.58:451][165]LogSavePackage: Save=16.61ms
+[2018.11.13-02.31.58:451][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/striaght_pipe_TubeBDD0ED5B4CF3B1EBFD0F23B19A77A97C.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Tube.uasset'
+[2018.11.13-02.31.58:458][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/striaght_pipe_Tube.uasset
+[2018.11.13-02.31.58:861][165]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e58c53180, Size=128
+[2018.11.13-02.31.58:861][165]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e6b8d4d80, Size=128, Default__TestingLevel1_C Function /Engine/Transient.REINST_TestingLevel1_C_54:ExecuteUbergraph_TestingLevel1
+[2018.11.13-02.31.58:864][165]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021e6b8d4f00, Size=128, Default__TestingLevel1_C Function /Game/Assets/Levels/TestingLevel1.TestingLevel1_C:ExecuteUbergraph_TestingLevel1
+[2018.11.13-02.31.59:037][165]LogSavePackage: Save=191.87ms
+[2018.11.13-02.31.59:037][165]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/TestingLevel16DAC98264726CAFEE525C3A57E9F866E.tmp' to '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap'
+[2018.11.13-02.31.59:044][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Assets/Levels/TestingLevel1.umap
+[2018.11.13-02.31.59:078][165]LogFileHelpers: Saving map 'TestingLevel1' took 0.617
+[2018.11.13-02.31.59:205][165]LogSlate: Window 'EpicJamProject - Unreal Editor' being destroyed
+[2018.11.13-02.31.59:533][166]Cmd: QUIT_EDITOR
+[2018.11.13-02.31.59:584][166]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.13-02.31.59:610][166]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.13-02.31.59:612][166]LogExit: Preparing to exit.
+[2018.11.13-02.32.00:292][166]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/' was aborted.
+[2018.11.13-02.32.00:397][166]LogExit: Editor shut down
+[2018.11.13-02.32.00:448][166]LogExit: Transaction tracking system shut down
+[2018.11.13-02.32.00:451][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e47bfb580, Size=216
+[2018.11.13-02.32.00:451][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e47dca8c0, Size=188
+[2018.11.13-02.32.00:451][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e6b8d4f00, Size=128
+[2018.11.13-02.32.00:451][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e482768c0, Size=168
+[2018.11.13-02.32.00:452][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e6b8d4d80, Size=128
+[2018.11.13-02.32.00:452][166]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021e47c25c90, Size=104
+[2018.11.13-02.32.00:521][166]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.11.13-02.32.00:521][166]LogDirectoryWatcher: A directory notification for '../../../../../../Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/' was aborted.
+[2018.11.13-02.32.00:521][166]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.11.13-02.32.00:522][166]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.11.13-02.32.00:522][166]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.11.13-02.32.00:522][166]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.11.13-02.32.00:522][166]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.11.13-02.32.00:522][166]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.11.13-02.32.01:155][166]LogExit: Object subsystem successfully closed.
+[2018.11.13-02.32.01:311][166]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.13-02.32.01:320][166]LogD3D11RHI: Shutdown
+[2018.11.13-02.32.01:321][166]LogD3D11RHI: CleanupD3DDevice
+[2018.11.13-02.32.01:332][166]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.13-02.32.01:417][166]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (576)
+[2018.11.13-02.32.01:417][166]LogModuleManager: Shutting down and abandoning module StatsViewer (574)
+[2018.11.13-02.32.01:418][166]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (572)
+[2018.11.13-02.32.01:418][166]LogModuleManager: Shutting down and abandoning module SceneOutliner (570)
+[2018.11.13-02.32.01:418][166]LogModuleManager: Shutting down and abandoning module AddContentDialog (568)
+[2018.11.13-02.32.01:419][166]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.11.13-02.32.01:429][166]LogModuleManager: Shutting down and abandoning module WidgetCarousel (567)
+[2018.11.13-02.32.01:429][166]LogModuleManager: Shutting down and abandoning module EditorWidgets (564)
+[2018.11.13-02.32.01:429][166]LogModuleManager: Shutting down and abandoning module CollectionManager (562)
+[2018.11.13-02.32.01:430][166]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Collections/' was aborted.
+[2018.11.13-02.32.01:430][166]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Content/Developers/user/Collections/' was aborted.
+[2018.11.13-02.32.01:430][166]LogDirectoryWatcher: A directory notification for 'C:/Users/user/Documents/GitHub/SomethingSomethingJamming/EpicJamProject/Saved/Collections/' was aborted.
+[2018.11.13-02.32.01:430][166]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.11.13-02.32.01:430][166]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.11.13-02.32.01:431][166]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.11.13-02.32.01:432][166]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.11.13-02.32.01:432][166]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.11.13-02.32.01:432][166]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.11.13-02.32.01:432][166]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.11.13-02.32.01:432][166]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.11.13-02.32.01:433][166]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.11.13-02.32.01:433][166]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.11.13-02.32.01:433][166]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.11.13-02.32.01:433][166]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.11.13-02.32.01:433][166]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.11.13-02.32.01:433][166]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.11.13-02.32.01:434][166]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.11.13-02.32.01:434][166]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.11.13-02.32.01:438][166]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.11.13-02.32.01:438][166]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.11.13-02.32.01:442][166]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.11.13-02.32.01:442][166]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.11.13-02.32.01:442][166]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.11.13-02.32.01:445][166]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.11.13-02.32.01:447][166]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.11.13-02.32.01:448][166]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.11.13-02.32.01:450][166]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.11.13-02.32.01:452][166]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.11.13-02.32.01:454][166]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.11.13-02.32.01:454][166]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.11.13-02.32.01:454][166]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.11.13-02.32.01:454][166]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.11.13-02.32.01:792][166]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.11.13-02.32.01:792][166]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.11.13-02.32.01:793][166]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.11.13-02.32.01:793][166]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.11.13-02.32.01:793][166]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.11.13-02.32.01:794][166]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.11.13-02.32.01:795][166]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.11.13-02.32.01:796][166]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.11.13-02.32.01:796][166]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.11.13-02.32.01:796][166]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.11.13-02.32.01:796][166]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.11.13-02.32.01:796][166]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.11.13-02.32.01:796][166]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.11.13-02.32.01:797][166]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.11.13-02.32.01:797][166]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.11.13-02.32.01:797][166]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.11.13-02.32.01:799][166]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.11.13-02.32.01:799][166]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.11.13-02.32.01:800][166]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.11.13-02.32.01:800][166]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.11.13-02.32.01:801][166]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.11.13-02.32.01:856][166]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.11.13-02.32.01:857][166]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.11.13-02.32.01:859][166]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.11.13-02.32.01:861][166]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.11.13-02.32.01:861][166]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.11.13-02.32.01:862][166]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.11.13-02.32.01:862][166]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.11.13-02.32.01:863][166]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.11.13-02.32.01:863][166]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.11.13-02.32.01:863][166]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.11.13-02.32.01:865][166]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.11.13-02.32.01:867][166]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.11.13-02.32.01:867][166]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.11.13-02.32.01:867][166]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.11.13-02.32.01:868][166]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.11.13-02.32.01:869][166]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.11.13-02.32.01:870][166]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.11.13-02.32.01:870][166]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.11.13-02.32.01:870][166]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.11.13-02.32.01:870][166]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.11.13-02.32.01:870][166]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.11.13-02.32.01:870][166]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.11.13-02.32.01:870][166]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.11.13-02.32.01:870][166]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.11.13-02.32.01:871][166]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.11.13-02.32.01:871][166]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.11.13-02.32.01:871][166]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.11.13-02.32.01:871][166]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.11.13-02.32.01:871][166]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.11.13-02.32.01:872][166]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.11.13-02.32.01:872][166]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.11.13-02.32.02:024][166]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.11.13-02.32.02:025][166]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.11.13-02.32.02:025][166]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.11.13-02.32.02:025][166]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.11.13-02.32.02:026][166]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.11.13-02.32.02:026][166]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.11.13-02.32.02:026][166]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.11.13-02.32.02:026][166]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.11.13-02.32.02:026][166]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.11.13-02.32.02:026][166]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.11.13-02.32.02:026][166]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.11.13-02.32.02:026][166]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.11.13-02.32.02:026][166]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.11.13-02.32.02:028][166]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.11.13-02.32.02:028][166]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.11.13-02.32.02:028][166]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.11.13-02.32.02:028][166]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.11.13-02.32.02:033][166]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.11.13-02.32.02:033][166]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.11.13-02.32.02:034][166]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.11.13-02.32.02:034][166]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.11.13-02.32.02:034][166]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.11.13-02.32.02:034][166]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.11.13-02.32.02:034][166]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.11.13-02.32.02:034][166]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.11.13-02.32.02:036][166]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.11.13-02.32.02:037][166]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.11.13-02.32.02:038][166]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.11.13-02.32.02:038][166]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.11.13-02.32.02:038][166]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.11.13-02.32.02:038][166]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.11.13-02.32.02:038][166]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.11.13-02.32.02:039][166]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.11.13-02.32.02:041][166]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.11.13-02.32.02:041][166]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.11.13-02.32.02:042][166]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.11.13-02.32.02:043][166]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.11.13-02.32.02:043][166]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.11.13-02.32.02:043][166]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.11.13-02.32.02:043][166]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.11.13-02.32.02:044][166]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.11.13-02.32.02:044][166]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.11.13-02.32.02:044][166]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.11.13-02.32.02:044][166]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.11.13-02.32.02:045][166]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.11.13-02.32.02:045][166]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.11.13-02.32.02:045][166]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.11.13-02.32.02:045][166]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.11.13-02.32.02:045][166]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.11.13-02.32.02:045][166]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.11.13-02.32.02:146][166]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.11.13-02.32.02:247][166]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.11.13-02.32.02:248][166]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.11.13-02.32.02:248][166]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.11.13-02.32.02:248][166]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.11.13-02.32.02:248][166]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.11.13-02.32.02:249][166]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.11.13-02.32.02:251][166]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.11.13-02.32.02:252][166]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.11.13-02.32.02:252][166]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.11.13-02.32.02:253][166]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.11.13-02.32.02:254][166]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.11.13-02.32.02:257][166]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.11.13-02.32.02:257][166]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.11.13-02.32.02:258][166]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.11.13-02.32.02:259][166]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.11.13-02.32.02:822][166]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.11.13-02.32.02:824][166]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.11.13-02.32.02:824][166]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.11.13-02.32.02:826][166]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.11.13-02.32.02:832][166]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.11.13-02.32.02:832][166]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.11.13-02.32.02:832][166]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.11.13-02.32.02:834][166]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.11.13-02.32.02:834][166]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.11.13-02.32.02:834][166]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.11.13-02.32.02:834][166]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.11.13-02.32.02:835][166]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.11.13-02.32.02:835][166]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.11.13-02.32.02:835][166]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.11.13-02.32.02:838][166]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.11.13-02.32.02:838][166]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.11.13-02.32.02:840][166]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.11.13-02.32.02:840][166]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.11.13-02.32.02:841][166]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.11.13-02.32.02:843][166]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.11.13-02.32.02:844][166]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.11.13-02.32.02:844][166]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.11.13-02.32.02:848][166]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.11.13-02.32.02:848][166]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.11.13-02.32.02:851][166]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.11.13-02.32.02:851][166]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.11.13-02.32.02:851][166]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.11.13-02.32.02:851][166]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.11.13-02.32.02:852][166]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.11.13-02.32.02:852][166]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.11.13-02.32.02:852][166]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.11.13-02.32.02:852][166]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.11.13-02.32.02:852][166]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.11.13-02.32.02:852][166]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.11.13-02.32.02:852][166]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.11.13-02.32.02:852][166]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.11.13-02.32.02:853][166]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.11.13-02.32.02:854][166]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.11.13-02.32.02:854][166]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.11.13-02.32.02:855][166]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.11.13-02.32.02:865][166]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.11.13-02.32.02:871][166]LogDerivedDataCache: Shutdown
+[2018.11.13-02.32.02:871][166]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.11.13-02.32.02:871][166]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.13-02.32.02:872][166]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.11.13-02.32.02:872][166]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.11.13-02.32.02:873][166]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.11.13-02.32.02:873][166]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.11.13-02.32.02:874][166]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.11.13-02.32.02:874][166]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.11.13-02.32.02:875][166]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.11.13-02.32.02:875][166]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.11.13-02.32.02:875][166]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.11.13-02.32.02:875][166]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.11.13-02.32.02:876][166]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.11.13-02.32.02:876][166]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.11.13-02.32.02:876][166]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.11.13-02.32.02:876][166]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.11.13-02.32.02:876][166]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.11.13-02.32.02:876][166]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.11.13-02.32.02:876][166]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.11.13-02.32.02:877][166]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.11.13-02.32.02:878][166]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.11.13-02.32.02:880][166]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.11.13-02.32.02:882][166]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.11.13-02.32.02:883][166]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.13-02.32.02:883][166]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2EB42C62-4F8E-831B-7FC9-F490586FA176%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=9fc950794041cc0d726400ae910f30b5%7C883798bb4f59421db3df218c229ee466%7C66fc3589-cd8b-4221-9383-20420135c236&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.13-02.32.02:896][166]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.11.13-02.32.02:900][166]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.13-02.32.02:901][166]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.13-02.32.02:902][166]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.13-02.32.02:903][166]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.13-02.32.02:903][166]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.13-02.32.02:903][166]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.13-02.32.02:903][166]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.13-02.32.02:909][166]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.13-02.32.02:910][166]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.13-02.32.02:910][166]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.13-02.32.02:911][166]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.13-02.32.02:911][166]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.13-02.32.02:911][166]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.13-02.32.02:911][166]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.13-02.32.02:911][166]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.13-02.32.02:911][166]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.13-02.32.02:911][166]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.13-02.32.02:912][166]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.13-02.32.02:919][166]LogExit: Exiting.
+[2018.11.13-02.32.02:945][166]Log file closed, 11/12/18 18:32:02
